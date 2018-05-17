@@ -22,6 +22,7 @@ for (var i = 0; i < time.length; i++) { //Loop trough elements
 
 var headwayURL = "https://api-v3.mbta.com/stops?filter[route]=Red%2CBlue%2COrange%2CMattapan%2CGreen-B%2CGreen-C%2CGreen-D%2CGreen-E";
 var stationArray = []
+var map = null
 
 jQuery(document).ready(function($) {
     $.ajax({
@@ -31,7 +32,7 @@ jQuery(document).ready(function($) {
         success : function(parsed_json) {
             var stationJson = parsed_json['data'];
             var display = '';
-            var stationSelectorString = 'Service <select id="stationInput">'
+            var stationSelectorString = 'Select station <select id="stationInput">'
 
             // iterate over all observed headways at this station
 
@@ -49,6 +50,11 @@ jQuery(document).ready(function($) {
             }
             stationSelectorString = stationSelectorString + '</select><button onclick="nextStationUpdate()">View station map</button>';
             document.getElementById('stationSelector').innerHTML = stationSelectorString;
+
+            // initialize the map
+            var layer = new L.StamenTileLayer('toner');
+            map = L.map('map').setView([42.35, -71.08], 15);
+            map.addLayer(layer);
         }
     });
 });
@@ -226,8 +232,16 @@ function nextStationUpdate() {
         console.log('-- NEARBY ROUTES --')
         console.log(nearbyRoutes)
 
+        map.setView([stationLat, stationLon], 18);
+
+        // load GeoJSON from an external file
+        // $.getJSON("rodents.geojson",function(data){
+        //     // add GeoJSON layer to the map once the file is loaded
+        //     L.geoJson(data).addTo(map);
+        // });
+
         setTimeout(function(){
-            document.getElementById("dwellsT").innerHTML = 'Testing 1 2 3';
+            document.getElementById("dwellsT").innerHTML = stationName + '<br>&nbsp;';
         }, 1000);
     }, 100);
 };

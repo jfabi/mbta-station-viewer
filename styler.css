@@ -76,6 +76,9 @@ h2 {
     margin-top: 22px;
 }
 
+#map {
+    height: 500px;
+}
 
 td {
     padding-left: 10px;
