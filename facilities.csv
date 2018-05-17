@@ -1,0 +1,935 @@
+"facility_id","facility_code","facility_class","facility_type","stop_id","facility_short_name","facility_long_name","facility_desc","facility_lat","facility_lon","wheelchair_facility"
+"pick-qnctr-busway","",3,"pick-drop","place-qnctr","Hancock St","Quincy Center Hancock St Pick-up/Drop-off","","42.251716","-71.004715",1
+"pick-mlmnl-commercial","",3,"pick-drop","place-mlmnl","Commercial St","Malden Center Commercial St Pick-up/Drop-off","","42.426233","-71.073879",1
+"pick-brntn-main","",3,"pick-drop","place-brntn","Busway","Braintree Busway Pick-up/Drop-off","","42.207209","-71.001154",1
+"pick-jfk-morrissey","",3,"pick-drop","place-jfk","Morrissey Boulevard","JFK/UMass Morrissey Boulevard Pick-up/Drop-off","","42.320588","-71.051454",1
+"pick-forhl-washington","",3,"pick-drop","place-forhl","Washington St","Forest Hills Washington St Pick-up/Drop-off","","42.299439","-71.114871",1
+"pick-sstat-atlantic","",3,"pick-drop","place-sstat","Atlantic Ave","South Station Atlantic Ave Pick-up/Drop-off","","42.351021","-71.056168",1
+"pick-rugg-forsyth","",3,"pick-drop","place-rugg","Forsyth St","Ruggles Forsyth St Pick-up/Drop-off","","42.337066","-71.08944",1
+"pick-asmnl-main","",3,"pick-drop","place-asmnl","Busway","Ashmont Busway Pick-up/Drop-off","","42.28408","-71.064131",2
+"pick-asmnl-accessible","",3,"pick-drop","place-asmnl","Accessible","Ashmont Accessible Pick-up/Drop-off","","42.285205","-71.064353",1
+"pick-sull-maffa","",3,"pick-drop","place-sull","Maffa Way","Sullivan Square Maffa Way Pick-up/Drop-off","","42.384932","-71.075811",1
+"pick-sdmnl-walley","",3,"pick-drop","place-sdmnl","Walley St","Suffolk Downs Walley St Pick-up/Drop-off","","42.390457","-70.997813",1
+"pick-orhte-bennington","",3,"pick-drop","place-orhte","Bennington St","Orient Heights Bennington St Pick-up/Drop-off","","42.387105","-71.004864",1
+"pick-ogmnl-wash","",3,"pick-drop","place-ogmnl","Washington St","Oak Grove Washington St Pick-up/Drop-off","","42.436513","-71.071296",1
+"pick-ogmnl-banks","",3,"pick-drop","place-ogmnl","Banks Place","Oak Grove Banks Place Pick-up/Drop-off","","42.436937","-71.070105",1
+"pick-nqncy-squantum","",3,"pick-drop","place-nqncy","West Squantum St","North Quincy West Squantum St Pick-up/Drop-off","","42.275342","-71.028621",1
+"pick-nqncy-hancock","",3,"pick-drop","place-nqncy","Hancock St","North Quincy Hancock St Pick-up/Drop-off","","42.276721","-71.030662",1
+"pick-welln-lot","",3,"pick-drop","place-welln","Lot","Wellington Lot Pick-up/Drop-off","","42.402687","-71.075818",0
+"pick-jaksn-main","",3,"pick-drop","place-jaksn","Centre St","Jackson Square Centre St Pick-up/Drop-off","","42.322858","-71.100196",1
+"pick-qamnl-garage","",3,"pick-drop","place-qamnl","Garage","Quincy Adams Garage Pick-up/Drop-off","","42.23275","-71.007361",1
+"pick-alfcl-garage","",3,"pick-drop","place-alfcl","Garage","Alewife Garage Pick-up/Drop-off","","42.395598","-71.141842",1
+"pick-cedgr-hillsdale","",3,"pick-drop","place-cedgr","Hillsdale St","Cedar Grove Hillsdale St Pick-up/Drop-off","","42.279432","-71.060168",1
+"pick-woodl-main","",3,"pick-drop","place-woodl","","Woodland Pick-up/Drop-off","","42.333082","-71.243526",2
+"pick-woodl-accessible","",3,"pick-drop","place-woodl","Accessible","Woodland Accessible Pick-up/Drop-off","","42.33283","-71.243024",1
+"pick-river-main","",3,"pick-drop","place-river","","Riverside Pick-up/Drop-off","","42.337034","42.337034",1
+"park-PB-0194","",3,"parking-area","Abington","Parking Lot","Abington Parking Lot","","","",0
+"park-alfcl-garage","",3,"parking-area","place-alfcl","Garage","Alewife Garage","","42.395669","-71.141853",0
+"ev-alfcl-garage","",6,"electric-car-chargers","place-alfcl","EV Chargers","Alewife Garage EV Chargers","","","",0
+"park-NHRML-0127","",3,"parking-area","Anderson/ Woburn","Parking Lot","Anderson/Woburn Parking Lot","","","",0
+"park-WR-0228","",3,"parking-area","Andover","Parking Lot","Andover Parking Lot","","","",0
+"park-WML-0252","",3,"parking-area","Ashland ","Parking Lot","Ashland Parking Lot","","","",0
+"park-NEC-1969","",3,"parking-area","Attleboro","Parking Lot","Attleboro Parking Lot","","","",0
+"park-WML-0102","",3,"parking-area","Auburndale","Parking Lot","Auburndale Parking Lot","","","",0
+"park-FR-0361","",3,"parking-area","Ayer","Parking Lot","Ayer Parking Lot","","","",0
+"park-WR-0205","",3,"parking-area","Ballardvale","Parking Lot","Ballardvale Parking Lot","","","",0
+"park-bmmnl","",3,"parking-area","place-bmmnl","Winthrop Avenue Parking Lot","Beachmont Winthrop Avenue Parking Lot","","42.398796","-70.992967",0
+"park-NB-0072","",3,"parking-area","Bellevue","Parking Lot","Bellevue Parking Lot","","","",0
+"park-FR-0064-royal","",3,"parking-area","Belmont","Royal Road Parking Lot","Belmont Royal Road Parking Lot","","","",0
+"park-FR-0064-claflin","",3,"parking-area","Belmont","Claflin Street Parking Lot","Belmont Claflin Street Parking Lot","","","",0
+"park-ER-0183-garage","",3,"parking-area","Beverly","Garage","Beverly Garage","","","",0
+"park-GB-0229","",3,"parking-area","Beverly Farms","Parking Lot","Beverly Farms Parking Lot","","","",0
+"park-WR-0325","",3,"parking-area","Bradford","Parking Lot","Bradford Parking Lot","","","",0
+"park-brntn-garage","",3,"parking-area","place-brntn","Garage","Braintree Garage","","42.207767","-71.000546",0
+"ev-brntn-garage","",6,"electric-car-chargers","place-brntn","EV Chargers","Braintree Garage EV Chargers","","","",0
+"park-FR-0115","",3,"parking-area","Brandeis/ Roberts","Parking Lot","Brandeis/Roberts Parking Lot","","","",0
+"park-MM-0277","",3,"parking-area","Bridgewater","Parking Lot","Bridgewater Parking Lot","","","",0
+"park-MM-0200","",3,"parking-area","Brockton","Parking Lot","Brockton Parking Lot","","","",0
+"park-butlr","",3,"parking-area","place-butlr","Parking Lot","Butler Parking Lot","","42.272222","-71.063415",0
+"park-MM-0219","",3,"parking-area","Campello","Parking Lot","Campello Parking Lot","","","",0
+"park-SB-0156","",3,"parking-area","Canton Center","Parking Lot","Canton Center Parking Lot","","","",0
+"park-NEC-2139","",3,"parking-area","Canton Junction","Parking Lot","Canton Junction Parking Lot","","","",0
+"park-chhil","",3,"parking-area","place-chhil","Parking Lot","Chestnut Hill Parking Lot","","42.327012","-71.164846",0
+"park-GRB-0199","",3,"parking-area","Cohasset","Parking Lot","Cohasset Parking Lot","","","",0
+"park-FR-0201","",3,"parking-area","Concord","Parking Lot","Concord Parking Lot","","","",0
+"park-FB-0118","",3,"parking-area","Dedham Corp Center","Parking Lot","Dedham Corp Center Parking Lot","","","",0
+"park-GRB-0146","",3,"parking-area","East Weymouth","Parking Lot","East Weymouth Parking Lot","","","",0
+"park-eliot","",3,"parking-area","place-eliot","Parking Lot","Eliot Parking Lot","","42.319157","-71.216504",0
+"park-FB-0109","",3,"parking-area","Endicott","Parking Lot","Endicott Parking Lot","","","",0
+"park-DB-2205","",3,"parking-area","Fairmount","Parking Lot","Fairmount Parking Lot","","","",0
+"park-FR-0494-garage","",3,"parking-area","Fitchburg","Garage","Fitchburg Garage","","","",0
+"ev-FR-0494-garage","",6,"electric-car-chargers","Fitchburg","EV Chargers","Fitchburg Garage EV Chargers","","","",0
+"park-forhl","",3,"parking-area","place-forhl","Parking Lot","Forest Hills Parking Lot","","42.298675","-71.114749",0
+"ev-forhl","",6,"electric-car-chargers","place-forhl","EV Chargers","Forest Hills Parking Lot EV Chargers","","","",0
+"park-FB-0303","",3,"parking-area","Forge Park / 495","Parking Lot","Forge Park/495 Parking Lot","","","",0
+"park-WML-0214","",3,"parking-area","Framingham","Parking Lot","Framingham Parking Lot","","","",0
+"park-FB-0275","",3,"parking-area","Franklin","Parking Lot","Franklin Parking Lot","","","",0
+"park-GB-0316","",3,"parking-area","Gloucester","Parking Lot","Gloucester Parking Lot","","","",0
+"park-WML-0364","",3,"parking-area","Grafton","Parking Lot","Grafton Parking Lot","","","",0
+"park-GRB-0276","",3,"parking-area","Greenbush","Parking Lot","Greenbush Parking Lot","","","",0
+"park-WR-0085","",3,"parking-area","Greenwood","Parking Lot","Greenwood Parking Lot","","","",0
+"park-PB-0281","",3,"parking-area","Halifax","Parking Lot","Halifax Parking Lot","","","",0
+"park-ER-0227","",3,"parking-area","Hamilton/ Wenham","Parking Lot","Hamilton/Wenham Parking Lot","","","",0
+"park-PB-0245","",3,"parking-area","Hanson","Parking Lot","Hanson Parking Lot","","","",0
+"park-FR-0137","",3,"parking-area","Hastings","Parking Lot","Hastings Parking Lot","","","",0
+"park-WR-0329","",3,"parking-area","Haverhill","Parking Lot","Haverhill Parking Lot","","","",0
+"park-haecl-garage","",3,"parking-area","place-haecl","Garage","Haymarket Garage","","","",0
+"park-NB-0109","",3,"parking-area","Hersey","Parking Lot","Hersey Parking Lot","","","",0
+"park-NB-0076","",3,"parking-area","Highland","Parking Lot","Highland Parking Lot","","","",0
+"park-Boat-Hingham","",3,"parking-area","Boat-Hingham","Parking Lot","Hingham Parking Lot","","","",0
+"park-MM-0150","",3,"parking-area","Holbrook/ Randolph","Parking Lot","Holbrook/Randolph Parking Lot","","","",0
+"park-NEC-2203","",3,"parking-area","Hyde Park","Parking Lot","Hyde Park Parking Lot","","","",0
+"park-ER-0276","",3,"parking-area","Ipswich","Parking Lot","Ipswich Parking Lot","","","",0
+"park-FB-0125","",3,"parking-area","Islington","Parking Lot","Islington Parking Lot","","","",0
+"park-FR-0132","",3,"parking-area","Kendal Green","Parking Lot","Kendal Green Parking Lot","","","",0
+"park-KB-0351","",3,"parking-area","Kingston","Parking Lot","Kingston Parking Lot","","","",0
+"park-WR-0264","",3,"parking-area","Lawrence","Parking Lot","Lawrence Parking Lot","","","",0
+"park-FR-0167","",3,"parking-area","Lincoln","Parking Lot","Lincoln Parking Lot","","","",0
+"park-FR-0301","",3,"parking-area","Littleton / Rte 495","Parking Lot","Littleton/Rte 495 Parking Lot","","","",0
+"ev-FR-0301","",6,"electric-car-chargers","Littleton / Rte 495","EV Chargers","Littleton/Rte 495 Parking Lot EV Chargers","","","",0
+"park-NHRML-0254-garage","",3,"parking-area","Lowell","Garage","Lowell Garage","","","",0
+"park-ER-0115-garage","",3,"parking-area","Lynn","Garage","Lynn Garage","","","",0
+"park-mlmnl","",3,"parking-area","place-mlmnl","Parking Lot","Malden Center Parking Lot","","42.42683","-71.075305",0
+"park-GB-0254","",3,"parking-area","Manchester","Parking Lot","Manchester Parking Lot","","","",0
+"park-NEC-2040","",3,"parking-area","Mansfield","Parking Lot","Mansfield Parking Lot","","","",0
+"park-matt","",3,"parking-area","place-matt","Parking Lot","Mattapan Parking Lot","","42.268231","-71.091983",0
+"park-WR-0075","",3,"parking-area","Melrose Highlands","Parking Lot","Melrose Highlands Parking Lot","","","",0
+"park-WR-0067","",3,"parking-area","Melrose Cedar Park","Parking Lot","Melrose Cedar Park Parking Lot","","","",0
+"park-MM-0356","",3,"parking-area","Middleborough/ Lakeville","Parking Lot","Middleborough/Lakeville Parking Lot","","","",0
+"park-miltt","",3,"parking-area","place-miltt","Parking Lot","Milton Parking Lot","","42.270164","-71.066974",0
+"park-MM-0186","",3,"parking-area","Montello","Parking Lot","Montello Parking Lot","","","",0
+"park-GB-0198","",3,"parking-area","Montserrat","Parking Lot","Montserrat Parking Lot","","","",0
+"park-NHRML-0218-garage","",3,"parking-area","North Billerica","Garage","North Billerica Garage","","","",0
+"park-FR-0451-garage","",3,"parking-area","North Leominster","Garage","North Leominster Garage","","","",0
+"ev-FR-0451-garage","",6,"electric-car-chargers","North Leominster","EV Chargers","North Leominster Garage EV Chargers","","","",0
+"park-WR-0163","",3,"parking-area","North Wilmington","Parking Lot","North Wilmington Parking Lot","","","",0
+"park-GRB-0183","",3,"parking-area","Nantasket Junction","Parking Lot","Nantasket Junction Parking Lot","","","",0
+"park-WML-0177","",3,"parking-area","Natick Center","Parking Lot","Natick Center Parking Lot","","","",0
+"park-NB-0127","",3,"parking-area","Needham Center","Parking Lot","Needham Center Parking Lot","","","",0
+"park-NB-0137","",3,"parking-area","Needham Heights","Parking Lot","Needham Heights Parking Lot","","","",0
+"park-NB-0120","",3,"parking-area","Needham Junction","Parking Lot","Needham Junction Parking Lot","","","",0
+"park-ER-0362","",3,"parking-area","Newburyport","Parking Lot","Newburyport Parking Lot","","","",0
+"park-FB-0230","",3,"parking-area","Norfolk","Parking Lot","Norfolk Parking Lot","","","",0
+"park-ER-0208","",3,"parking-area","North Beverly","Parking Lot","North Beverly Parking Lot","","","",0
+"park-nqncy-hancock","",3,"parking-area","place-nqncy","Hancock Street Parking Lot","North Quincy Hancock Street Parking Lot","","42.276644","-71.030331",0
+"park-nqncy-newport","",3,"parking-area","place-nqncy","Newport Avenue Parking Lot","North Quincy Newport Avenue Parking Lot","","42.274241","-71.028957",0
+"park-GRB-0233","",3,"parking-area","North Scituate","Parking Lot","North Scituate Parking Lot","","","",0
+"park-FB-0148","",3,"parking-area","Norwood Central","Parking Lot","Norwood Central Parking Lot","","","",0
+"park-FB-0143","",3,"parking-area","Norwood Depot","Parking Lot","Norwood Depot Parking Lot","","","",0
+"park-WR-0053","",3,"parking-area","place-ogmnl","Banks Place Parking Lot","Oak Grove Banks Place Parking Lot","","42.436121","-71.070641",0
+"park-orhte","",3,"parking-area","place-orhte","Barnes Avenue Parking Lot","Orient Heights Barnes Avenue Parking Lot","","42.386432","-71.001906",0
+"park-PB-0356","",3,"parking-area","Plymouth","Parking Lot","Plymouth Parking Lot","","","",0
+"park-NEC-1851-garage","",3,"parking-area","Providence","Garage","Providence Garage","","","",0
+"park-qamnl-garage","",3,"parking-area","place-qamnl","Garage","Quincy Adams Garage","","42.233003","-71.007702",0
+"ev-qamnl-garage","",6,"electric-car-chargers","place-qamnl","EV Chargers","Quincy Adams Garage EV Chargers","","","",0
+"park-WR-0120","",3,"parking-area","Reading","Parking Lot","Reading Parking Lot","","","",0
+"park-DB-0095","",3,"parking-area","Readville","Parking Lot","Readville Parking Lot","","","",0
+"park-river","",3,"parking-area","place-river","Parking Lot","Riverside Parking Lot","","42.335963","-71.253308",0
+"park-GB-0353","",3,"parking-area","Rockport","Parking Lot","Rockport Parking Lot","","","",0
+"park-NB-0064","",3,"parking-area","Roslindale Village","Parking Lot","Roslindale Village Parking Lot","","","",0
+"park-NEC-2173-garage","",3,"parking-area","Route 128","Garage","Route 128 Garage","","","",0
+"ev-NEC-2173-garage","",6,"electric-car-chargers","Route 128","EV Chargers","Route 128 Garage EV Chargers","","","",0
+"park-ER-0312","",3,"parking-area","Rowley","Parking Lot","Rowley Parking Lot","","","",0
+"park-FR-0253","",3,"parking-area","South Acton","Parking Lot","South Acton Parking Lot","","","",0
+"park-ER-0168-garage","",3,"parking-area","Salem","Garage","Salem Garage","","","",0
+"ev-ER-0168-garage","",6,"electric-car-chargers","Salem","EV Chargers","Salem Garage EV Chargers","","","",0
+"park-shmnl","",3,"parking-area","place-shmnl","Sydney Street Parking Lot","Savin Hill Sydney Street Parking Lot","","42.310814","-71.053835",0
+"park-NEC-2108","",3,"parking-area","Sharon","Parking Lot","Sharon Parking Lot","","","",0
+"park-FR-0394","",3,"parking-area","Shirley","Parking Lot","Shirley Parking Lot","","","",0
+"park-NEC-1919","",3,"parking-area","South Attleboro","Parking Lot","South Attleboro Parking Lot","","","",0
+"park-PB-0158","",3,"parking-area","South Weymouth","Parking Lot","South Weymouth Parking Lot","","","",0
+"park-WML-0274","",3,"parking-area","Southborough","Parking Lot","Southborough Parking Lot","","","",0
+"park-SB-0189","",3,"parking-area","Stoughton","Parking Lot","Stoughton Parking Lot","","","",0
+"park-sdmnl","",3,"parking-area","place-sdmnl","Bennington Street Parking Lot","Suffolk Downs Bennington Street Parking Lot","","42.391043","-70.996408",0
+"park-sull","",3,"parking-area","place-sull","Parking Lot","Sullivan Square Parking Lot","","","",0
+"park-ER-0128","",3,"parking-area","Swampscott","Parking Lot","Swampscott Parking Lot","","","",0
+"park-DB-2240","",3,"parking-area","TF Green Airport","Parking Lot","TF Green Airport Parking Lot","","","",0
+"park-DB-2258","",3,"parking-area","Uphams Corner","Parking Lot","Uphams Corner Parking Lot","","","",0
+"park-WML-0091-wash","",3,"parking-area","West Newton","Washington Street Parking Lot","West Newton Washington Street Parking Lot","","","",0
+"park-WML-0091-newton","",3,"parking-area","West Newton","Webster Street Parking Lot","West Newton Webster Street Parking Lot","","","",0
+"park-waban","",3,"parking-area","place-waban","Parking Lot","Waban Parking Lot","","42.325986","-71.230382",0
+"park-FR-3338-garage","",3,"parking-area","Wachusett","Garage","Wachusett Garage","","","",0
+"ev-FR-3338-garage","",6,"electric-car-chargers","Wachusett","EV Chargers","Wachusett Garage EV Chargers","","","",0
+"park-WR-0099","",3,"parking-area","Wakefield","Parking Lot","Wakefield Parking Lot","","","",0
+"park-FB-0191","",3,"parking-area","Walpole","Parking Lot","Walpole Parking Lot","","","",0
+"park-FR-0098","",3,"parking-area","Waltham","Parking Lot","Waltham Parking Lot","","","",0
+"park-900","",3,"parking-area","900","Parking Lot","Watertown Yard Parking Lot","","","",0
+"park-NHRML-0073","",3,"parking-area","Wedgemere","Parking Lot","Wedgemere Parking Lot","","","",0
+"park-WML-0125","",3,"parking-area","Wellesley Farms","Parking Lot","Wellesley Farms Parking Lot","","","",0
+"park-WML-0135","",3,"parking-area","Wellesley Hills","Parking Lot","Wellesley Hills Parking Lot","","","",0
+"park-WML-0147","",3,"parking-area","Wellesley Square","Parking Lot","Wellesley Square Parking Lot","","","",0
+"park-welln-lot","",3,"parking-area","place-welln","Parking Lot","Wellington Parking Lot","","42.402238","-71.075427",0
+"park-FR-0219","",3,"parking-area","West Concord","Parking Lot","West Concord Parking Lot","","","",0
+"park-GB-0296","",3,"parking-area","West Gloucester","Parking Lot","West Gloucester Parking Lot","","","",0
+"park-GRB-0162","",3,"parking-area","West Hingham","Parking Lot","West Hingham Parking Lot","","","",0
+"park-NHRML-0055","",3,"parking-area","West Medford","Parking Lot","West Medford Parking Lot","","","",0
+"park-WML-0199","",3,"parking-area","West Natick","Parking Lot","West Natick Parking Lot","","","",0
+"park-NB-0080","",3,"parking-area","West Roxbury","Parking Lot","West Roxbury Parking Lot","","","",0
+"park-WML-0340","",3,"parking-area","Westborough","Parking Lot","Westborough Parking Lot","","","",0
+"park-GRB-0118","",3,"parking-area","Weymouth Landing/ East Braintree","Parking Lot","Weymouth Landing/East Braintree Parking Lot","","","",0
+"park-PB-0212","",3,"parking-area","Whitman","Parking Lot","Whitman Parking Lot","","","",0
+"park-NHRML-0152","",3,"parking-area","Wilmington","Parking Lot","Wilmington Parking Lot","","","",0
+"ev-NHRML-0152","",6,"electric-car-chargers","Wilmington","EV Chargers","Wilmington Parking Lot EV Chargers","","","",0
+"park-NHRML-0078","",3,"parking-area","Winchester Center","Parking Lot","Winchester Center Parking Lot","","","",0
+"park-wlsta","",3,"parking-area","place-wlsta","Parking Lot","Wollaston Parking Lot","","","",0
+"park-wondl-garage","",3,"parking-area","place-wondl","Garage","Wonderland Garage","","42.412954","-70.992453",0
+"ev-wondl-garage","",6,"electric-car-chargers","place-wondl","EV Chargers","Wonderland Garage EV Chargers","","","",0
+"park-wondl-nshore","",3,"parking-area","place-wondl","North Shore Road Parking Lot","Wonderland North Shore Road Parking Lot","","42.415135","-70.991207",0
+"park-wondl-ocean","",3,"parking-area","place-wondl","Ocean Avenue Parking Lot","Wonderland Ocean Avenue Parking Lot","","42.413634","-70.990892",0
+"park-woodl-garage","",3,"parking-area","place-woodl","Garage","Woodland Garage","","42.332036","-71.240704",0
+"ev-woodl-garage","",6,"electric-car-chargers","place-woodl","EV Chargers","Woodland Garage EV Chargers","","","",0
+"park-WML-0442-garage","",3,"parking-area","Worcester","Garage","Worcester Garage","","","",0
+"park-WR-0062","",3,"parking-area","Wyoming Hill","Parking Lot","Wyoming Hill Parking Lot","","","",0
+"park-sstat-garage","",3,"parking-area","place-sstat","Bus Terminal Garage","South Station Bus Terminal Garage","","42.349838","-71.055963",0
+"park-north-garage","",3,"parking-area","place-north","Garage","North Station Garage","","42.366083","-71.06214",0
+"park-longw","",3,"parking-area","place-longw","Parking Lot","Longwood Parking Lot","","42.341706","-71.110086",0
+"park-brkhl","",3,"parking-area","place-brkhl","Parking Lot","Brookline Hills Parking Lot","","42.331416","-71.126749",0
+"park-bcnfd","",3,"parking-area","place-bcnfd","Parking Lot","Beaconsfield Parking Lot","","42.335841","-71.140186",0
+"6","6",1,"escalator","place-state","Oak Grove platform to Old State House lobby","State Street Escalator 6 (Oak Grove platform to Old State House lobby)","","","",2
+"50","50",1,"elevator","Framingham","Outbound platform to pedestrian bridge","Framingham Elevator 50 (Outbound platform to pedestrian bridge)","","","",1
+"51","51",1,"elevator","Framingham","Waverly Street to pedestrian bridge","Framingham Elevator 51 (Waverly Street to pedestrian bridge)","","","",1
+"52","52",1,"elevator","Route 128","Lobby to South Station platform","Route 128 Elevator 52 (Lobby to South Station platform)","","","",1
+"53","53",1,"elevator","Route 128","Lobby to outbound platform","Route 128 Elevator 53 (Lobby to outbound platform)","","","",1
+"54","54",1,"escalator","Route 128","South Station platform to lobby","Route 128 Escalator 54 (South Station platform to lobby)","","","",2
+"55","55",1,"escalator","Route 128","Outbound platform to lobby","Route 128 Escalator 55 (Outbound platform to lobby)","","","",2
+"102","102",1,"escalator","place-ogmnl","Washington Street to unpaid lobby","Oak Grove Escalator 102 (Washington Street to unpaid lobby)","","","",2
+"103","103",1,"escalator","place-ogmnl","Orange Line platform to paid lobby","Oak Grove Escalator 103 (Orange Line platform to paid lobby)","","","",2
+"104","104",1,"escalator","place-ogmnl","Parking, busway to unpaid lobby","Oak Grove Escalator 104 (Parking, busway to unpaid lobby)","","","",2
+"105","105",1,"escalator","place-ogmnl","Commuter Rail platform to unpaid lobby","Oak Grove Escalator 105 (Commuter Rail platform to unpaid lobby)","","","",2
+"112","112",1,"escalator","place-dwnxg","Ashmont/Braintree platform to Chauncy Street","Downtown Crossing Escalator 112 (Ashmont/Braintree platform to Chauncy Street)","","","",2
+"113","113",1,"escalator","place-dwnxg","Alewife platform to Hawley Street","Downtown Crossing Escalator 113 (Alewife platform to Hawley Street)","","","",2
+"123","123",1,"escalator","place-andrw","Ashmont/Braintree platform to busway","Andrew Escalator 123 (Ashmont/Braintree platform to busway)","","","",2
+"124","124",1,"escalator","place-andrw","Ashmont/Braintree platform to busway","Andrew Escalator 124 (Ashmont/Braintree platform to busway)","","","",2
+"125","125",1,"escalator","place-bomnl","Lobby to street","Bowdoin Escalator 125 (Lobby to street)","","","",2
+"127","127",1,"escalator","place-forhl","Lower busway north to upper lobby","Forest Hills Escalator 127 (Lower busway north to upper lobby)","","","",2
+"128","128",1,"escalator","place-forhl","Lower busway south to upper lobby","Forest Hills Escalator 128 (Lower busway south to upper lobby)","","","",2
+"129","129",1,"escalator","place-forhl","Orange Line platform to upper lobby","Forest Hills Escalator 129 (Orange Line platform to upper lobby)","","","",2
+"130","130",1,"escalator","place-forhl","Orange Line platform to upper lobby","Forest Hills Escalator 130 (Orange Line platform to upper lobby)","","","",2
+"131","131",1,"escalator","place-grnst","Platform to paid lobby","Green Street Escalator 131 (Platform to paid lobby)","","","",2
+"132","132",1,"escalator","place-sbmnl","Platform to paid lobby","Stony Brook Escalator 132 (Platform to paid lobby)","","","",2
+"133","133",1,"escalator","place-jaksn","Platform to paid lobby","Jackson Square Escalator 133 (Platform to paid lobby)","","","",2
+"134","134",1,"escalator","place-rcmnl","Platform to paid lobby","Roxbury Crossing Escalator 134 (Platform to paid lobby)","","","",2
+"135","135",1,"escalator","place-rugg","Lower busway to upper lobby","Ruggles Escalator 135 (Lower busway to upper lobby)","","","",2
+"136","136",1,"escalator","place-rugg","Orange Line platform to upper lobby","Ruggles Escalator 136 (Orange Line platform to upper lobby)","","","",2
+"137","137",1,"escalator","place-rugg","Orange Line platform to upper lobby","Ruggles Escalator 137 (Orange Line platform to upper lobby)","","","",2
+"138","138",1,"escalator","place-rugg","Forsyth Street to upper lobby","Ruggles Escalator 138 (Forsyth Street to upper lobby)","","","",2
+"139","139",1,"escalator","place-masta","Platform to paid lobby","Massachusetts Avenue Escalator 139 (Platform to paid lobby)","","","",2
+"140","140",1,"escalator","place-bbsta","Orange Line platform to lobby","Back Bay Escalator 140 (Orange Line platform to lobby)","","","",2
+"141","141",1,"escalator","place-bbsta","Orange Line platform to lobby","Back Bay Escalator 141 (Orange Line platform to lobby)","","","",2
+"142","142",1,"escalator","place-bbsta","Commuter Rail tracks 1 and 3 to lobby","Back Bay Escalator 142 (Commuter Rail tracks 1 and 3 to lobby)","","","",2
+"143","143",1,"escalator","place-bbsta","Lobby to Commuter Rail tracks 1 and 3","Back Bay Escalator 143 (Lobby to Commuter Rail tracks 1 and 3)","","","",2
+"144","144",1,"escalator","place-bbsta","Commuter Rail track 2 to lobby","Back Bay Escalator 144 (Commuter Rail track 2 to lobby)","","","",2
+"145","145",1,"escalator","place-tumnl","Lobby to Washington Street","Tufts Medical Center Escalator 145 (Lobby to Washington Street)","","","",2
+"146","146",1,"escalator","place-tumnl","Oak Grove platform to Washington Street lobby","Tufts Medical Center Escalator 146 (Oak Grove platform to Washington Street lobby)","","","",2
+"147","147",1,"escalator","place-tumnl","Forest Hills platform to Washington Street lobby","Tufts Medical Center Escalator 147 (Forest Hills platform to Washington Street lobby)","","","",2
+"148","148",1,"escalator","place-tumnl","Oak Grove platform to Tremont Street lobby","Tufts Medical Center Escalator 148 (Oak Grove platform to Tremont Street lobby)","","","",2
+"149","149",1,"escalator","place-tumnl","Forest Hills platform to Tremont Street lobby","Tufts Medical Center Escalator 149 (Forest Hills platform to Tremont Street lobby)","","","",2
+"150","150",1,"escalator","place-prmnl","Prudential Center to lobby","Prudential Escalator 150 (Prudential Center to lobby)","","","",2
+"151","151",1,"escalator","place-prmnl","Lobby to Prudential Center","Prudential Escalator 151 (Lobby to Prudential Center)","","","",2
+"152","152",1,"escalator","place-prmnl","Heath Street platform to lobby","Prudential Escalator 152 (Heath Street platform to lobby)","","","",2
+"301","301",1,"escalator","place-andrw","Alewife platform to lobby","Andrew Escalator 301 (Alewife platform to lobby)","","","",2
+"302","302",1,"escalator","place-north","Forest Hills, Copley & West platform to Valenti Way lobby","North Station Escalator 302 (Forest Hills, Copley & West platform to Valenti Way lobby)","","","",2
+"303","303",1,"escalator","place-north","Valenti Way lobby to Forest Hills, Copley & West platform","North Station Escalator 303 (Valenti Way lobby to Forest Hills, Copley & West platform)","","","",2
+"304","304",1,"escalator","place-north","Oak Grove platform to Valenti Way lobby","North Station Escalator 304 (Oak Grove platform to Valenti Way lobby)","","","",2
+"305","305",1,"escalator","place-ccmnl","Platform to paid lobby","Community College Escalator 305 (Platform to paid lobby)","","","",2
+"307","307",1,"escalator","place-sull","Forest Hills platform to paid lobby","Sullivan Square Escalator 307 (Forest Hills platform to paid lobby)","","","",2
+"308","308",1,"escalator","place-sull","Oak Grove platform to paid lobby","Sullivan Square Escalator 308 (Oak Grove platform to paid lobby)","","","",2
+"309","309",1,"escalator","place-welln","Forest Hills platform to paid lobby","Wellington Escalator 309 (Forest Hills platform to paid lobby)","","","",2
+"310","310",1,"escalator","place-welln","Oak Grove platform to paid lobby","Wellington Escalator 310 (Oak Grove platform to paid lobby)","","","",2
+"311","311",1,"escalator","place-mlmnl","Paid lobby to Orange Line platform","Malden Center Escalator 311 (Paid lobby to Orange Line platform)","","","",2
+"312","312",1,"escalator","place-mlmnl","Street level to Commuter Rail platform","Malden Center Escalator 312 (Street level to Commuter Rail platform)","","","",2
+"313","313",1,"escalator","place-haecl","Green Line lobby to busway, Sudbury Street, New Chardon Street","Haymarket Escalator 313 (Green Line lobby to busway, Sudbury Street, New Chardon Street)","","","",2
+"315","315",1,"escalator","place-hymnl","Kenmore & West platform to paid lobby","Hynes Convention Center Escalator 315 (Kenmore & West platform to paid lobby)","","","",2
+"320","320",1,"escalator","place-pktrm","Government Center & North platform to Park Street","Park Street Escalator 320 (Government Center & North platform to Park Street)","","","",2
+"322","322",1,"escalator","place-jfk","Ashmont platform to Columbia Road","JFK/UMass Escalator 322 (Ashmont platform to Columbia Road)","","","",2
+"325","325",1,"escalator","place-nqncy","Platform to Squantum Street paid lobby","North Quincy Escalator 325 (Platform to Squantum Street paid lobby)","","","",2
+"326","326",1,"escalator","place-nqncy","Platform to northern paid lobby","North Quincy Escalator 326 (Platform to northern paid lobby)","","","",2
+"327","327",1,"escalator","place-nqncy","Hancock Street parking to unpaid lobby","North Quincy Escalator 327 (Hancock Street parking to unpaid lobby)","","","",2
+"329","329",1,"escalator","place-wlsta","Paid lobby to platform","Wollaston Escalator 329 (Paid lobby to platform)","","","",2
+"330","330",1,"escalator","place-qnctr","Red Line platform to lobby","Quincy Center Escalator 330 (Red Line platform to lobby)","","","",2
+"331","331",1,"escalator","place-dwnxg","Ashmont/Braintree platform to Oak Grove platform","Downtown Crossing Escalator 331 (Ashmont/Braintree platform to Oak Grove platform)","","","",2
+"332","332",1,"escalator","place-dwnxg","Alewife platform to Oak Grove platform","Downtown Crossing Escalator 332 (Alewife platform to Oak Grove platform)","","","",2
+"333","333",1,"escalator","place-brntn","Busway to Commuter Rail platform, parking garage","Braintree Escalator 333 (Busway to Commuter Rail platform, parking garage)","","","",2
+"334","334",1,"escalator","place-brntn","Red Line platform to paid lobby","Braintree Escalator 334 (Red Line platform to paid lobby)","","","",2
+"335","335",1,"escalator","place-brntn","Paid lobby to Red Line platform","Braintree Escalator 335 (Paid lobby to Red Line platform)","","","",2
+"336","336",1,"escalator","place-davis","College Avenue landing to street","Davis Escalator 336 (College Avenue landing to street)","","","",2
+"337","337",1,"escalator","place-davis","College Avenue street to landing","Davis Escalator 337 (College Avenue street to landing)","","","",2
+"338","338",1,"escalator","place-davis","Unpaid lobby to College Avenue landing","Davis Escalator 338 (Unpaid lobby to College Avenue landing)","","","",2
+"339","339",1,"escalator","place-davis","College Avenue landing to unpaid lobby","Davis Escalator 339 (College Avenue landing to unpaid lobby)","","","",2
+"340","340",1,"escalator","place-davis","Red Line platform to paid lobby","Davis Escalator 340 (Red Line platform to paid lobby)","","","",2
+"341","341",1,"escalator","place-davis","Red Line platform to paid lobby","Davis Escalator 341 (Red Line platform to paid lobby)","","","",2
+"342","342",1,"escalator","place-davis","Holland Street to unpaid lobby","Davis Escalator 342 (Holland Street to unpaid lobby)","","","",2
+"343","343",1,"escalator","place-davis","Unpaid lobby to Holland Street","Davis Escalator 343 (Unpaid lobby to Holland Street)","","","",2
+"344","344",1,"escalator","place-qamnl","Platform to paid lobby","Quincy Adams Escalator 344 (Platform to paid lobby)","","","",2
+"345","345",1,"escalator","place-qamnl","Paid lobby to platform","Quincy Adams Escalator 345 (Paid lobby to platform)","","","",2
+"346","346",1,"escalator","place-qamnl","Unpaid lobby to garage level 2","Quincy Adams Escalator 346 (Unpaid lobby to garage level 2)","","","",2
+"347","347",1,"escalator","place-qamnl","Garage level 2 to level 4","Quincy Adams Escalator 347 (Garage level 2 to level 4)","","","",2
+"348","348",1,"escalator","place-qamnl","Garage level 4 to level 2","Quincy Adams Escalator 348 (Garage level 4 to level 2)","","","",2
+"349","349",1,"escalator","place-alfcl","Platform to Russell Field","Alewife Escalator 349 (Platform to Russell Field)","","","",2
+"350","350",1,"escalator","place-alfcl","Russell Field to platform","Alewife Escalator 350 (Russell Field to platform)","","","",2
+"351","351",1,"escalator","place-alfcl","Main concourse to platform","Alewife Escalator 351 (Main concourse to platform)","","","",2
+"352","352",1,"escalator","place-alfcl","Platform to main concourse","Alewife Escalator 352 (Platform to main concourse)","","","",2
+"353","353",1,"escalator","place-alfcl","Main concourse to busway","Alewife Escalator 353 (Main concourse to busway)","","","",2
+"354","354",1,"escalator","place-alfcl","Main concourse to garage level 2","Alewife Escalator 354 (Main concourse to garage level 2)","","","",2
+"355","355",1,"escalator","place-alfcl","Garage level 2 to level 3","Alewife Escalator 355 (Garage level 2 to level 3)","","","",2
+"356","356",1,"escalator","place-alfcl","Garage level 2 to level 4","Alewife Escalator 356 (Garage level 2 to level 4)","","","",2
+"357","357",1,"escalator","place-alfcl","Garage level 2 to level 5","Alewife Escalator 357 (Garage level 2 to level 5)","","","",2
+"359","359",1,"escalator","place-cntsq","Ashmont/Braintree platform to street","Central Escalator 359 (Ashmont/Braintree platform to street)","","","",2
+"360","360",1,"escalator","place-cntsq","Alewife platform to street","Central Escalator 360 (Alewife platform to street)","","","",2
+"361","361",1,"escalator","place-knncl","Ashmont/Braintree platform to street","Kendall/MIT Escalator 361 (Ashmont/Braintree platform to street)","","","",2
+"362","362",1,"escalator","place-knncl","Alewife platform to street","Kendall/MIT Escalator 362 (Alewife platform to street)","","","",2
+"364","364",1,"escalator","place-dwnxg","Oak Grove platform to Franklin Street","Downtown Crossing Escalator 364 (Oak Grove platform to Franklin Street)","","","",2
+"365","365",1,"escalator","place-dwnxg","Forest Hills platform to Washington Street, Winter Street","Downtown Crossing Escalator 365 (Forest Hills platform to Washington Street, Winter Street)","","","",2
+"366","366",1,"escalator","place-chncl","Forest Hills platform to Washington Street","Chinatown Escalator 366 (Forest Hills platform to Washington Street)","","","",2
+"367","367",1,"escalator","place-brdwy","Platform to paid lobby","Broadway Escalator 367 (Platform to paid lobby)","","","",2
+"372","372",1,"escalator","place-brdwy","Unpaid lobby to street","Broadway Escalator 372 (Unpaid lobby to street)","","","",2
+"373","373",1,"escalator","place-pktrm","Alewife platform to Tremont Street","Park Street Escalator 373 (Alewife platform to Tremont Street)","","","",2
+"374","374",1,"escalator","place-state","Oak Grove platform to City Hall Plaza","State Street Escalator 374 (Oak Grove platform to City Hall Plaza)","","","",2
+"375","375",1,"escalator","place-pktrm","Ashmont/Braintree platform to Tremont Street","Park Street Escalator 375 (Ashmont/Braintree platform to Tremont Street)","","","",2
+"377","377",1,"escalator","place-chncl","Oak Grove platform to Washington Street","Chinatown Escalator 377 (Oak Grove platform to Washington Street)","","","",2
+"378","378",1,"escalator","place-bmmnl","Paid lobby to Bowdoin platform","Beachmont Escalator 378 (Paid lobby to Bowdoin platform)","","","",2
+"379","379",1,"escalator","place-bmmnl","Wonderland platform to paid lobby","Beachmont Escalator 379 (Wonderland platform to paid lobby)","","","",2
+"380","380",1,"escalator","place-wimnl","Wonderland platform to pedestrian bridge","Wood Island Escalator 380 (Wonderland platform to pedestrian bridge)","","","",2
+"382","382",1,"escalator","place-sstat","Alewife platform to lobby","South Station Escalator 382 (Alewife platform to lobby)","","","",2
+"383","383",1,"escalator","place-nqncy","Newport Avenue parking to lobby","North Quincy Escalator 383 (Newport Avenue parking to lobby)","","","",2
+"384","384",1,"escalator","place-north","Valenti Way lobby to street","North Station Escalator 384 (Valenti Way lobby to street)","","","",2
+"385","385",1,"escalator","place-north","Valenti Way to Orange Line, Green Line lobby","North Station Escalator 385 (Valenti Way to Orange Line, Green Line lobby)","","","",2
+"386","386",1,"escalator","place-sstat","1 Financial Center to lobby","South Station Escalator 386 (1 Financial Center to lobby)","","","",2
+"387","387",1,"escalator","place-sstat","Lobby to 1 Financial Center","South Station Escalator 387 (Lobby to 1 Financial Center)","","","",2
+"388","388",1,"escalator","place-sstat","Lobby to CSA area","South Station Escalator 388 (Lobby to CSA area)","","","",2
+"389","389",1,"escalator","place-sstat","Ashmont/Braintree platform to CSA area","South Station Escalator 389 (Ashmont/Braintree platform to CSA area)","","","",2
+"390","390",1,"escalator","place-sstat","Ashmont/Braintree platform to Airport/Design Center platform","South Station Escalator 390 (Ashmont/Braintree platform to Airport/Design Center platform)","","","",2
+"391","391",1,"escalator","place-north","Causeway Street lobby to Forest Hills, Copley & West platform","North Station Escalator 391 (Causeway Street lobby to Forest Hills, Copley & West platform)","","","",2
+"392","392",1,"escalator","place-north","Forest Hills, Copley & West platform to Causeway Street lobby","North Station Escalator 392 (Forest Hills, Copley & West platform to Causeway Street lobby)","","","",2
+"393","393",1,"escalator","place-north","Oak Grove platform to Causeway Street lobby","North Station Escalator 393 (Oak Grove platform to Causeway Street lobby)","","","",2
+"394","394",1,"escalator","place-aqucl","Wonderland platform to State Street lobby","Aquarium Escalator 394 (Wonderland platform to State Street lobby)","","","",2
+"395","395",1,"escalator","place-aqucl","Bowdoin platform to State Street lobby","Aquarium Escalator 395 (Bowdoin platform to State Street lobby)","","","",2
+"396","396",1,"escalator","place-aqucl","State Street lobby to first landing","Aquarium Escalator 396 (State Street lobby to first landing)","","","",2
+"397","397",1,"escalator","place-aqucl","First landing to State Street","Aquarium Escalator 397 (First landing to State Street)","","","",2
+"398","398",1,"escalator","place-sstat","Alewife platform to Airport/Design Center platform","South Station Escalator 398 (Alewife platform to Airport/Design Center platform)","","","",2
+"399","399",1,"escalator","place-sstat","South Station platform to lobby","South Station Escalator 399 (South Station platform to lobby)","","","",2
+"400","400",1,"escalator","place-sstat","Ashmont/Braintree platform to South Station platform","South Station Escalator 400 (Ashmont/Braintree platform to South Station platform)","","","",2
+"401","401",1,"escalator","place-wtcst","World Trade Center Avenue mezzanine to street","World Trade Center Escalator 401 (World Trade Center Avenue mezzanine to street)","","","",2
+"402","402",1,"escalator","place-wtcst","Lobby to World Trade Center Avenue mezzanine","World Trade Center Escalator 402 (Lobby to World Trade Center Avenue mezzanine)","","","",2
+"403","403",1,"escalator","place-wtcst","South Station platform to lobby","World Trade Center Escalator 403 (South Station platform to lobby)","","","",2
+"404","404",1,"escalator","place-wtcst","Airport/Design Center platform to lobby","World Trade Center Escalator 404 (Airport/Design Center platform to lobby)","","","",2
+"405","405",1,"escalator","place-aqucl","Unpaid lobby to Atlantic Avenue","Aquarium Escalator 405 (Unpaid lobby to Atlantic Avenue)","","","",2
+"406","406",1,"escalator","place-aqucl","Atlantic Avenue to unpaid lobby","Aquarium Escalator 406 (Atlantic Avenue to unpaid lobby)","","","",2
+"407","407",1,"escalator","place-aport","Paid mezzanine to Wonderland platform","Airport Escalator 407 (Paid mezzanine to Wonderland platform)","","","",2
+"408","408",1,"escalator","place-aport","Wonderland platform to paid mezzanine","Airport Escalator 408 (Wonderland platform to paid mezzanine)","","","",2
+"409","409",1,"escalator","place-aport","Bowdoin platform to paid mezzanine","Airport Escalator 409 (Bowdoin platform to paid mezzanine)","","","",2
+"410","410",1,"escalator","place-aport","Paid mezzanine to Bowdoin platform","Airport Escalator 410 (Paid mezzanine to Bowdoin platform)","","","",2
+"411","411",1,"escalator","place-sstat","Airport/Design Center platform to lobby","South Station Escalator 411 (Airport/Design Center platform to lobby)","","","",2
+"412","412",1,"escalator","place-crtst","Lobby to mezzanine","Courthouse Escalator 412 (Lobby to mezzanine)","","","",2
+"413","413",1,"escalator","place-crtst","Mezzanine to Seaport Boulevard, Thomson Place","Courthouse Escalator 413 (Mezzanine to Seaport Boulevard, Thomson Place)","","","",2
+"414","414",1,"escalator","place-crtst","South Station platform to lobby","Courthouse Escalator 414 (South Station platform to lobby)","","","",2
+"415","415",1,"escalator","place-crtst","Airport/Design Center platform to lobby","Courthouse Escalator 415 (Airport/Design Center platform to lobby)","","","",2
+"416","416",1,"escalator","place-crtst","South Station platform to south lobby","Courthouse Escalator 416 (South Station platform to south lobby)","","","",2
+"417","417",1,"escalator","place-crtst","Airport/Design Center platform to south lobby","Courthouse Escalator 417 (Airport/Design Center platform to south lobby)","","","",2
+"418","418",1,"escalator","place-crtst","Lobby to Seaport Boulevard, Fan Pier Boulevard","Courthouse Escalator 418 (Lobby to Seaport Boulevard, Fan Pier Boulevard)","","","",2
+"419","419",1,"escalator","place-sstat","Lobby to South Station platform","South Station Escalator 419 (Lobby to South Station platform)","","","",2
+"420","420",1,"escalator","place-sstat","Alewife platform to South Station platform","South Station Escalator 420 (Alewife platform to South Station platform)","","","",2
+"421","421",1,"escalator","place-north","Passageway lobby to street","North Station Escalator 421 (Passageway lobby to street)","","","",2
+"422","422",1,"escalator","place-north","Passageway street to lobby","North Station Escalator 422 (Passageway street to lobby)","","","",2
+"423","423",1,"escalator","place-shmnl","Platform to paid lobby","Savin Hill Escalator 423 (Platform to paid lobby)","","","",2
+"424","424",1,"escalator","place-sstat","Lobby to Dewey Square","South Station Escalator 424 (Lobby to Dewey Square)","","","",2
+"425","425",1,"escalator","place-chmnl","Lobby to Ashmont/Braintree platform","Charles/MGH Escalator 425 (Lobby to Ashmont/Braintree platform)","","","",2
+"426","426",1,"escalator","place-chmnl","Lobby to Alewife platform","Charles/MGH Escalator 426 (Lobby to Alewife platform)","","","",2
+"427","427",1,"escalator","place-fldcr","Paid lobby to Alewife platform","Fields Corner Escalator 427 (Paid lobby to Alewife platform)","","","",2
+"428","428",1,"escalator","place-mvbcl","Unpaid lobby to Lewis Mall","Maverick Escalator 428 (Unpaid lobby to Lewis Mall)","","","",2
+"429","429",1,"escalator","place-mvbcl","Lewis Mall to unpaid lobby","Maverick Escalator 429 (Lewis Mall to unpaid lobby)","","","",2
+"430","430",1,"escalator","place-kencl","Lobby to busway, street","Kenmore Escalator 430 (Lobby to busway, street)","","","",2
+"431","431",1,"escalator","place-kencl","Westbound platform to lobby","Kenmore Escalator 431 (Westbound platform to lobby)","","","",2
+"432","432",1,"escalator","place-kencl","Park Street & North platform to lobby","Kenmore Escalator 432 (Park Street & North platform to lobby)","","","",2
+"433","433",1,"escalator","place-mvbcl","Unpaid lobby to Maverick Square","Maverick Escalator 433 (Unpaid lobby to Maverick Square)","","","",2
+"434","434",1,"escalator","place-mvbcl","Maverick Square to unpaid lobby","Maverick Escalator 434 (Maverick Square to unpaid lobby)","","","",2
+"435","435",1,"escalator","place-armnl","Park Street & North platform to paid lobby","Arlington Escalator 435 (Park Street & North platform to paid lobby)","","","",2
+"436","436",1,"escalator","place-armnl","Copley & West platform to paid lobby","Arlington Escalator 436 (Copley & West platform to paid lobby)","","","",2
+"437","437",1,"escalator","place-asmnl","Ashmont platform to Peabody Square, busway","Ashmont Escalator 437 (Ashmont platform to Peabody Square, busway)","","","",2
+"438","438",1,"escalator","place-asmnl","Ashmont platform to Mattapan Line, busway","Ashmont Escalator 438 (Ashmont platform to Mattapan Line, busway)","","","",2
+"439","439",1,"escalator","place-coecl","Kenmore & West, Heath Street lobby to street","Copley Escalator 439 (Kenmore & West, Heath Street lobby to street)","","","",2
+"440","440",1,"escalator","place-orhte","Bowdoin platform to pedestrian bridge","Orient Heights Escalator 440 (Bowdoin platform to pedestrian bridge)","","","",2
+"441","441",1,"escalator","place-orhte","Wonderland platform to pedestrian bridge","Orient Heights Escalator 441 (Wonderland platform to pedestrian bridge)","","","",2
+"442","442",1,"escalator","place-astao","Foley Street to unpaid lobby","Assembly Escalator 442 (Foley Street to unpaid lobby)","","","",2
+"443","443",1,"escalator","place-astao","Platform to Foley Street paid lobby","Assembly Escalator 443 (Platform to Foley Street paid lobby)","","","",2
+"444","444",1,"escalator","place-gover","North Station & North platform to street","Government Center Escalator 444 (North Station & North platform to street)","","","",2
+"445","445",1,"escalator","place-gover","Copley & West, Blue Line platforms to street","Government Center Escalator 445 (Copley & West, Blue Line platforms to street)","","","",2
+"446","446",1,"escalator","place-gover","Blue Line platform to Green Line platform","Government Center Escalator 446 (Blue Line platform to Green Line platform)","","","",2
+"501","501",1,"escalator","place-state","Oak Grove platform to Wonderland platform","State Street Escalator 501 (Oak Grove platform to Wonderland platform)","","","",2
+"502","502",1,"escalator","place-state","Wonderland platform to Old State House","State Street Escalator 502 (Wonderland platform to Old State House)","","","",2
+"503","503",1,"escalator","place-prmnl","Lobby to Huntington Avenue","Prudential Escalator 503 (Lobby to Huntington Avenue)","","","",2
+"504","504",1,"escalator","place-portr","Street to unpaid lobby","Porter Escalator 504 (Street to unpaid lobby)","","","",2
+"505","505",1,"escalator","place-portr","Unpaid lobby to street","Porter Escalator 505 (Unpaid lobby to street)","","","",2
+"506","506",1,"escalator","place-portr","Alewife platform south to Ashmont/Braintree platform","Porter Escalator 506 (Alewife platform south to Ashmont/Braintree platform)","","","",2
+"507","507",1,"escalator","place-portr","Alewife platform north to Ashmont/Braintree platform","Porter Escalator 507 (Alewife platform north to Ashmont/Braintree platform)","","","",2
+"509","509",1,"escalator","place-portr","Paid lobby to Ashmont/Braintree platform","Porter Escalator 509 (Paid lobby to Ashmont/Braintree platform)","","","",2
+"510","510",1,"escalator","place-portr","Ashmont/Braintree platform to paid lobby","Porter Escalator 510 (Ashmont/Braintree platform to paid lobby)","","","",2
+"511","511",1,"escalator","place-portr","Ashmont/Braintree platform to paid lobby","Porter Escalator 511 (Ashmont/Braintree platform to paid lobby)","","","",2
+"512","512",1,"escalator","place-harsq","Mezzanine to Harvard Square","Harvard Escalator 512 (Mezzanine to Harvard Square)","","","",2
+"513","513",1,"escalator","place-harsq","Harvard Square to mezzanine","Harvard Escalator 513 (Harvard Square to mezzanine)","","","",2
+"514","514",1,"escalator","place-harsq","Main lobby to Harvard Square mezzanine","Harvard Escalator 514 (Main lobby to Harvard Square mezzanine)","","","",2
+"515","515",1,"escalator","place-harsq","Harvard Square mezzanine to main lobby","Harvard Escalator 515 (Harvard Square mezzanine to main lobby)","","","",2
+"516","516",1,"escalator","place-harsq","Alewife platform to Church Street lobby","Harvard Escalator 516 (Alewife platform to Church Street lobby)","","","",2
+"523","523",1,"escalator","place-state","Forest Hills platform to Washington Street, Milk Street","State Street Escalator 523 (Forest Hills platform to Washington Street, Milk Street)","","","",2
+"701","701",1,"elevator","place-wondl","Main lobby to garage","Wonderland Elevator 701 (Main lobby to garage)","","","",1
+"702","702",1,"elevator","place-wondl","Main lobby to garage","Wonderland Elevator 702 (Main lobby to garage)","","","",1
+"703","703",1,"elevator","place-wondl","Main lobby to garage","Wonderland Elevator 703 (Main lobby to garage)","","","",1
+"708","708",1,"elevator","place-wondl","Main lobby to pedestrian bridge","Wonderland Elevator 708 (Main lobby to pedestrian bridge)","","","",1
+"709","709",1,"elevator","place-wondl","Bowdoin platform to pedestrian plaza","Wonderland Elevator 709 (Bowdoin platform to pedestrian plaza)","","","",1
+"710","710",1,"elevator","place-wondl","Wonderland platform to pedestrian plaza","Wonderland Elevator 710 (Wonderland platform to pedestrian plaza)","","","",1
+"711","711",1,"elevator","place-wondl","Ocean Avenue to pedestrian plaza","Wonderland Elevator 711 (Ocean Avenue to pedestrian plaza)","","","",1
+"712","712",1,"elevator","place-orhte","Bowdoin platform to paid pedestrian bridge","Orient Heights Elevator 712 (Bowdoin platform to paid pedestrian bridge)","","","",1
+"713","713",1,"elevator","place-orhte","Bennington Street to unpaid pedestrian bridge","Orient Heights Elevator 713 (Bennington Street to unpaid pedestrian bridge)","","","",1
+"714","714",1,"elevator","place-orhte","Wonderland platform to paid pedestrian bridge","Orient Heights Elevator 714 (Wonderland platform to paid pedestrian bridge)","","","",1
+"715","715",1,"elevator","place-orhte","Winthrop busway to unpaid pedestrian bridge","Orient Heights Elevator 715 (Winthrop busway to unpaid pedestrian bridge)","","","",1
+"716","716",1,"elevator","place-astao","Foley Street to unpaid lobby","Assembly Elevator 716 (Foley Street to unpaid lobby)","","","",1
+"717","717",1,"elevator","place-astao","Platform to Foley Street paid lobby","Assembly Elevator 717 (Platform to Foley Street paid lobby)","","","",1
+"718","718",1,"elevator","place-astao","Revolution Drive to unpaid lobby","Assembly Elevator 718 (Revolution Drive to unpaid lobby)","","","",1
+"719","719",1,"elevator","place-astao","Platform to Revolution Drive paid lobby","Assembly Elevator 719 (Platform to Revolution Drive paid lobby)","","","",1
+"720","720",1,"elevator","place-gover","Green Line platform to street","Government Center Elevator 720 (Green Line platform to street)","","","",1
+"721","721",1,"elevator","place-gover","Green Line platform to street","Government Center Elevator 721 (Green Line platform to street)","","","",1
+"722","722",1,"elevator","place-gover","Blue Line platform to Green Line platform","Government Center Elevator 722 (Blue Line platform to Green Line platform)","","","",1
+"723","723",1,"elevator","place-gover","Blue Line platform to Green Line platform","Government Center Elevator 723 (Blue Line platform to Green Line platform)","","","",1
+"800","800",1,"elevator","place-ogmnl","Busway, parking lot to lobby","Oak Grove Elevator 800 (Busway, parking lot to lobby)","","","",1
+"801","801",1,"elevator","place-ogmnl","Orange Line platform to paid lobby","Oak Grove Elevator 801 (Orange Line platform to paid lobby)","","","",1
+"802","802",1,"elevator","place-state","Oak Grove platform to Forest Hills, Wonderland platforms","State Street Elevator 802 (Oak Grove platform to Forest Hills, Wonderland platforms)","","","",1
+"803","803",1,"elevator","place-state","Forest Hills platform to Washington Street, Milk Street","State Street Elevator 803 (Forest Hills platform to Washington Street, Milk Street)","","","",1
+"804","804",1,"elevator","place-pktrm","Government Center & North lobby to Tremont Street, Winter Street","Park Street Elevator 804 (Government Center & North lobby to Tremont Street, Winter Street)","","","",1
+"805","805",1,"elevator","place-qamnl","Lobby to platform","Quincy Adams Elevator 805 (Lobby to platform)","","","",1
+"806","806",1,"elevator","place-qamnl","Lobby to parking garage","Quincy Adams Elevator 806 (Lobby to parking garage)","","","",1
+"807","807",1,"elevator","place-qamnl","Lobby to parking garage","Quincy Adams Elevator 807 (Lobby to parking garage)","","","",1
+"808","808",1,"elevator","place-pktrm","Red Line center platform to Government Center & North platform, Winter Street Concourse","Park Street Elevator 808 (Red Line center platform to Government Center & North platform, Winter Street Concourse)","","","",1
+"810","810",1,"elevator","place-qnctr","Red Line platform to lobby","Quincy Center Elevator 810 (Red Line platform to lobby)","","","",1
+"811","811",1,"elevator","place-brntn","Red Line platform to lobby","Braintree Elevator 811 (Red Line platform to lobby)","","","",1
+"812","812",1,"elevator","place-pktrm","Green Line underpass to Lechmere platform","Park Street Elevator 812 (Green Line underpass to Lechmere platform)","","","",1
+"813","813",1,"elevator","place-alfcl","Platform to main lobby","Alewife Elevator 813 (Platform to main lobby)","","","",1
+"814","814",1,"elevator","place-alfcl","Main lobby to parking garage","Alewife Elevator 814 (Main lobby to parking garage)","","","",1
+"815","815",1,"elevator","place-alfcl","Main lobby to parking garage","Alewife Elevator 815 (Main lobby to parking garage)","","","",1
+"816","816",1,"elevator","place-davis","Platform to lobby","Davis Elevator 816 (Platform to lobby)","","","",1
+"817","817",1,"elevator","place-davis","Lobby to College Avenue","Davis Elevator 817 (Lobby to College Avenue)","","","",1
+"821","821",1,"elevator","place-harsq","Lobby to Harvard Square","Harvard Elevator 821 (Lobby to Harvard Square)","","","",1
+"823","823",1,"elevator","place-pktrm","Green Line underpass to Copley & West platform","Park Street Elevator 823 (Green Line underpass to Copley & West platform)","","","",1
+"830","830",1,"elevator","place-jfk","Braintree branch platform to lobby","JFK/UMass Elevator 830 (Braintree branch platform to lobby)","","","",1
+"831","831",1,"elevator","place-jfk","Ashmont branch platform to lobby","JFK/UMass Elevator 831 (Ashmont branch platform to lobby)","","","",1
+"840","840",1,"elevator","place-sull","Platform to lobby","Sullivan Square Elevator 840 (Platform to lobby)","","","",1
+"841","841",1,"elevator","place-forhl","Commuter Rail platform to lobby","Forest Hills Elevator 841 (Commuter Rail platform to lobby)","","","",1
+"842","842",1,"elevator","place-forhl","Orange Line platform to upper lobby","Forest Hills Elevator 842 (Orange Line platform to upper lobby)","","","",1
+"843","843",1,"elevator","place-forhl","Lower busway to upper lobby","Forest Hills Elevator 843 (Lower busway to upper lobby)","","","",1
+"844","844",1,"elevator","place-grnst","Platform to paid lobby","Green Street Elevator 844 (Platform to paid lobby)","","","",1
+"845","845",1,"elevator","place-sbmnl","Platform to paid lobby","Stony Brook Elevator 845 (Platform to paid lobby)","","","",1
+"846","846",1,"elevator","place-jaksn","Platform to paid lobby","Jackson Square Elevator 846 (Platform to paid lobby)","","","",1
+"847","847",1,"elevator","place-rcmnl","Platform to paid lobby","Roxbury Crossing Elevator 847 (Platform to paid lobby)","","","",1
+"848","848",1,"elevator","place-rugg","Lower busway to upper lobby","Ruggles Elevator 848 (Lower busway to upper lobby)","","","",1
+"849","849",1,"elevator","place-rugg","Commuter Rail platform to upper lobby","Ruggles Elevator 849 (Commuter Rail platform to upper lobby)","","","",1
+"850","850",1,"elevator","place-rugg","Orange Line platform to upper lobby","Ruggles Elevator 850 (Orange Line platform to upper lobby)","","","",1
+"851","851",1,"elevator","place-rugg","Forsyth Street to upper lobby","Ruggles Elevator 851 (Forsyth Street to upper lobby)","","","",1
+"852","852",1,"elevator","place-masta","Platform to paid lobby","Massachusetts Avenue Elevator 852 (Platform to paid lobby)","","","",1
+"853","853",1,"elevator","place-bbsta","Orange Line platform to lobby","Back Bay Elevator 853 (Orange Line platform to lobby)","","","",1
+"854","854",1,"elevator","place-bbsta","Commuter Rail track 2 to lobby","Back Bay Elevator 854 (Commuter Rail track 2 to lobby)","","","",1
+"855","855",1,"elevator","place-bbsta","Commuter Rail tracks 1 and 3 to lobby","Back Bay Elevator 855 (Commuter Rail tracks 1 and 3 to lobby)","","","",1
+"856","856",1,"elevator","place-bbsta","Commuter Rail tracks 5 and 7 to lobby","Back Bay Elevator 856 (Commuter Rail tracks 5 and 7 to lobby)","","","",1
+"857","857",1,"elevator","place-tumnl","Washington Street lobby to street","Tufts Medical Center Elevator 857 (Washington Street lobby to street)","","","",1
+"858","858",1,"elevator","place-tumnl","Oak Grove platform to Washington Street lobby","Tufts Medical Center Elevator 858 (Oak Grove platform to Washington Street lobby)","","","",1
+"859","859",1,"elevator","place-tumnl","Forest Hills platform to Washington Street lobby","Tufts Medical Center Elevator 859 (Forest Hills platform to Washington Street lobby)","","","",1
+"860","860",1,"elevator","place-cntsq","Alewife platform to street","Central Elevator 860 (Alewife platform to street)","","","",1
+"861","861",1,"elevator","place-cntsq","Ashmont/Braintree platform to street","Central Elevator 861 (Ashmont/Braintree platform to street)","","","",1
+"863","863",1,"elevator","place-knncl","Ashmont/Braintree platform to street","Kendall/MIT Elevator 863 (Ashmont/Braintree platform to street)","","","",1
+"864","864",1,"elevator","place-welln","Oak Grove platform to lobby","Wellington Elevator 864 (Oak Grove platform to lobby)","","","",1
+"865","865",1,"elevator","place-welln","Forest Hills platform to lobby","Wellington Elevator 865 (Forest Hills platform to lobby)","","","",1
+"866","866",1,"elevator","place-knncl","Alewife platform to street","Kendall/MIT Elevator 866 (Alewife platform to street)","","","",1
+"867","867",1,"elevator","place-brdwy","Platform to lobby","Broadway Elevator 867 (Platform to lobby)","","","",1
+"868","868",1,"elevator","place-brdwy","Lobby to street","Broadway Elevator 868 (Lobby to street)","","","",1
+"869","869",1,"elevator","place-dwnxg","Alewife platform to Summer Street Concourse","Downtown Crossing Elevator 869 (Alewife platform to Summer Street Concourse)","","","",1
+"870","870",1,"elevator","place-dwnxg","Ashmont/Braintree platform to Summer Street Concourse","Downtown Crossing Elevator 870 (Ashmont/Braintree platform to Summer Street Concourse)","","","",1
+"871","871",1,"elevator","place-qnctr","Lobby to parking garage","Quincy Center Elevator 871 (Lobby to parking garage)","","","",1
+"872","872",1,"elevator","place-andrw","Unpaid lobby to street","Andrew Elevator 872 (Unpaid lobby to street)","","","",1
+"876","876",1,"elevator","place-chncl","Oak Grove platform to street","Chinatown Elevator 876 (Oak Grove platform to street)","","","",1
+"879","879",1,"elevator","place-andrw","Ashmont/Braintree platform to paid lobby","Andrew Elevator 879 (Ashmont/Braintree platform to paid lobby)","","","",1
+"880","880",1,"elevator","place-andrw","Alewife platform to paid lobby","Andrew Elevator 880 (Alewife platform to paid lobby)","","","",1
+"881","881",1,"elevator","place-sull","Lobby to Oak Grove platform","Sullivan Square Elevator 881 (Lobby to Oak Grove platform)","","","",1
+"884","884",1,"elevator","place-rbmnl","Bowdoin platform to lobby","Revere Beach Elevator 884 (Bowdoin platform to lobby)","","","",1
+"885","885",1,"elevator","place-rbmnl","Wonderland platform to lobby","Revere Beach Elevator 885 (Wonderland platform to lobby)","","","",1
+"886","886",1,"elevator","place-bmmnl","Bowdoin platform to lobby","Beachmont Elevator 886 (Bowdoin platform to lobby)","","","",1
+"887","887",1,"elevator","place-bmmnl","Wonderland platform to lobby","Beachmont Elevator 887 (Wonderland platform to lobby)","","","",1
+"889","889",1,"elevator","place-wimnl","Bowdoin platform to pedestrian bridge","Wood Island Elevator 889 (Bowdoin platform to pedestrian bridge)","","","",1
+"890","890",1,"elevator","place-wimnl","Wonderland platform to pedestrian bridge","Wood Island Elevator 890 (Wonderland platform to pedestrian bridge)","","","",1
+"891","891",1,"elevator","place-dwnxg","Oak Grove platform to Franklin Street","Downtown Crossing Elevator 891 (Oak Grove platform to Franklin Street)","","","",1
+"892","892",1,"elevator","place-dwnxg","Forest Hills platform to Washington Street, Winter Street","Downtown Crossing Elevator 892 (Forest Hills platform to Washington Street, Winter Street)","","","",1
+"896","896",1,"elevator","place-qnctr","Commuter Rail platform to lobby","Quincy Center Elevator 896 (Commuter Rail platform to lobby)","","","",1
+"897","897",1,"elevator","place-nqncy","Hancock Street parking to northern lobby","North Quincy Elevator 897 (Hancock Street parking to northern lobby)","","","",1
+"898","898",1,"elevator","place-nqncy","Newport Avenue parking to northern lobby","North Quincy Elevator 898 (Newport Avenue parking to northern lobby)","","","",1
+"899","899",1,"elevator","place-nqncy","Platform to northern lobby","North Quincy Elevator 899 (Platform to northern lobby)","","","",1
+"900","900",1,"elevator","place-nqncy","Platform to main lobby, busway","North Quincy Elevator 900 (Platform to main lobby, busway)","","","",1
+"901","901",1,"elevator","place-sstat","Ashmont/Braintree platform to lobby, Airport/Design Center platform","South Station Elevator 901 (Ashmont/Braintree platform to lobby, Airport/Design Center platform)","","","",1
+"903","903",1,"elevator","place-haecl","Oak Grove platform to Congress Street lobby","Haymarket Elevator 903 (Oak Grove platform to Congress Street lobby)","","","",1
+"904","904",1,"elevator","place-haecl","Forest Hills platform to Congress Street lobby","Haymarket Elevator 904 (Forest Hills platform to Congress Street lobby)","","","",1
+"905","905",1,"elevator","place-haecl","Underpass to Forest Hills platform","Haymarket Elevator 905 (Underpass to Forest Hills platform)","","","",1
+"906","906",1,"elevator","place-haecl","Underpass to Green Line platforms, busway","Haymarket Elevator 906 (Underpass to Green Line platforms, busway)","","","",1
+"907","907",1,"elevator","place-haecl","Underpass to Oak Grove platform","Haymarket Elevator 907 (Underpass to Oak Grove platform)","","","",1
+"908","908",1,"elevator","place-haecl","Green Line lobby to busway, Sudbury Street, New Chardon Street","Haymarket Elevator 908 (Green Line lobby to busway, Sudbury Street, New Chardon Street)","","","",1
+"909","909",1,"elevator","place-north","Orange Line, Green Line lobby to Valenti Way","North Station Elevator 909 (Orange Line, Green Line lobby to Valenti Way)","","","",1
+"910","910",1,"elevator","place-north","Lobby to Forest Hills, Copley & West platform","North Station Elevator 910 (Lobby to Forest Hills, Copley & West platform)","","","",1
+"911","911",1,"elevator","place-north","Oak Grove platform to paid lobby","North Station Elevator 911 (Oak Grove platform to paid lobby)","","","",1
+"912","912",1,"elevator","place-north","Orange Line, Green Line lobby to Causeway Street","North Station Elevator 912 (Orange Line, Green Line lobby to Causeway Street)","","","",1
+"913","913",1,"elevator","place-aqucl","Wonderland platform to State Street lobby","Aquarium Elevator 913 (Wonderland platform to State Street lobby)","","","",1
+"914","914",1,"elevator","place-aqucl","Bowdoin platform to State Street lobby","Aquarium Elevator 914 (Bowdoin platform to State Street lobby)","","","",1
+"915","915",1,"elevator","place-aqucl","State Street lobby to street","Aquarium Elevator 915 (State Street lobby to street)","","","",1
+"917","917",1,"elevator","place-prmnl","Lobby to Prudential Center","Prudential Elevator 917 (Lobby to Prudential Center)","","","",1
+"918","918",1,"elevator","place-sstat","Ashmont/Braintree platform to lobby, Airport/Design Center platform","South Station Elevator 918 (Ashmont/Braintree platform to lobby, Airport/Design Center platform)","","","",1
+"919","919",1,"elevator","place-sstat","Alewife platform to Airport/Design Center platform","South Station Elevator 919 (Alewife platform to Airport/Design Center platform)","","","",1
+"920","920",1,"elevator","place-prmnl","Heath Street platform to lobby","Prudential Elevator 920 (Heath Street platform to lobby)","","","",1
+"921","921",1,"elevator","place-prmnl","Park Street & North platform to lobby","Prudential Elevator 921 (Park Street & North platform to lobby)","","","",1
+"922","922",1,"elevator","place-chncl","Forest Hills platform to street","Chinatown Elevator 922 (Forest Hills platform to street)","","","",1
+"923","923",1,"elevator","place-aqucl","Bowdoin platform to Atlantic Avenue lobby","Aquarium Elevator 923 (Bowdoin platform to Atlantic Avenue lobby)","","","",1
+"924","924",1,"elevator","place-aqucl","Wonderland platform to Atlantic Avenue lobby","Aquarium Elevator 924 (Wonderland platform to Atlantic Avenue lobby)","","","",1
+"925","925",1,"elevator","place-aqucl","Atlantic Avenue lobby to Long Wharf","Aquarium Elevator 925 (Atlantic Avenue lobby to Long Wharf)","","","",1
+"926","926",1,"elevator","place-sstat","Lobby to street outside main entrance","South Station Elevator 926 (Lobby to street outside main entrance)","","","",1
+"927","927",1,"elevator","place-sstat","South Station platform to Alewife platform","South Station Elevator 927 (South Station platform to Alewife platform)","","","",1
+"928","928",1,"elevator","Lynn","Platform to lobby","Lynn Elevator 928 (Platform to lobby)","","","",1
+"929","929",1,"elevator","Lynn","Street to parking garage","Lynn Elevator 929 (Street to parking garage)","","","",1
+"930","930",1,"elevator","Lynn","Street to parking garage","Lynn Elevator 930 (Street to parking garage)","","","",1
+"931","931",1,"elevator","place-aport","Wonderland platform to paid mezzanine","Airport Elevator 931 (Wonderland platform to paid mezzanine)","","","",1
+"932","932",1,"elevator","place-aport","Bowdoin platform to paid mezzanine","Airport Elevator 932 (Bowdoin platform to paid mezzanine)","","","",1
+"933","933",1,"elevator","place-ccmnl","Paid lobby to platform","Community College Elevator 933 (Paid lobby to platform)","","","",1
+"934","934",1,"elevator","place-wtcst","Lobby to World Trade Center Avenue","World Trade Center Elevator 934 (Lobby to World Trade Center Avenue)","","","",1
+"935","935",1,"elevator","place-wtcst","South Station platform to lobby","World Trade Center Elevator 935 (South Station platform to lobby)","","","",1
+"936","936",1,"elevator","place-wtcst","Airport/Design Center platform to lobby","World Trade Center Elevator 936 (Airport/Design Center platform to lobby)","","","",1
+"937","937",1,"elevator","place-crtst","South Station platform to lobby","Courthouse Elevator 937 (South Station platform to lobby)","","","",1
+"938","938",1,"elevator","place-crtst","Airport/Design Center platform to lobby","Courthouse Elevator 938 (Airport/Design Center platform to lobby)","","","",1
+"939","939",1,"elevator","place-crtst","Lobby to Seaport Boulevard, Thomson Place","Courthouse Elevator 939 (Lobby to Seaport Boulevard, Thomson Place)","","","",1
+"940","940",1,"elevator","place-crtst","Lobby to Seaport Boulevard, Fan Pier Boulevard","Courthouse Elevator 940 (Lobby to Seaport Boulevard, Fan Pier Boulevard)","","","",1
+"941","941",1,"elevator","place-north","Orange Line, Green Line lobby to Commuter Rail, TD Garden","North Station Elevator 941 (Orange Line, Green Line lobby to Commuter Rail, TD Garden)","","","",1
+"944","944",1,"elevator","place-mlmnl","Lobby to Commuter Rail platform","Malden Center Elevator 944 (Lobby to Commuter Rail platform)","","","",1
+"945","945",1,"elevator","place-mlmnl","Lobby to Orange Line platform","Malden Center Elevator 945 (Lobby to Orange Line platform)","","","",1
+"946","946",1,"elevator","place-shmnl","Platform to paid lobby","Savin Hill Elevator 946 (Platform to paid lobby)","","","",1
+"947","947",1,"elevator","place-shmnl","Sydney Street to unpaid lobby","Savin Hill Elevator 947 (Sydney Street to unpaid lobby)","","","",1
+"948","948",1,"elevator","place-kencl","Lobby to Commonwealth Avenue","Kenmore Elevator 948 (Lobby to Commonwealth Avenue)","","","",1
+"949","949",1,"elevator","place-sstat","Lobby to Dewey Square","South Station Elevator 949 (Lobby to Dewey Square)","","","",1
+"951","951",1,"elevator","place-chmnl","Ashmont/Braintree platform to lobby","Charles/MGH Elevator 951 (Ashmont/Braintree platform to lobby)","","","",1
+"952","952",1,"elevator","place-chmnl","Alewife platform to lobby","Charles/MGH Elevator 952 (Alewife platform to lobby)","","","",1
+"953","953",1,"elevator","place-smmnl","Alewife platform to lobby","Shawmut Elevator 953 (Alewife platform to lobby)","","","",1
+"954","954",1,"elevator","place-smmnl","Ashmont platform to lobby","Shawmut Elevator 954 (Ashmont platform to lobby)","","","",1
+"955","955",1,"elevator","place-aport","Bremen Street to unpaid mezzanine","Airport Elevator 955 (Bremen Street to unpaid mezzanine)","","","",1
+"956","956",1,"elevator","place-aport","Buses, Airport to unpaid mezzanine","Airport Elevator 956 (Buses, Airport to unpaid mezzanine)","","","",1
+"957","957",1,"elevator","place-fldcr","Paid lobby to Alewife platform","Fields Corner Elevator 957 (Paid lobby to Alewife platform)","","","",1
+"958","958",1,"elevator","place-fldcr","Paid lobby to Ashmont platform","Fields Corner Elevator 958 (Paid lobby to Ashmont platform)","","","",1
+"961","961",1,"elevator","place-alfcl","Platform to Russell Field, Rindge Avenue","Alewife Elevator 961 (Platform to Russell Field, Rindge Avenue)","","","",1
+"962","962",1,"elevator","place-armnl","Copley & West platform to lobby","Arlington Elevator 962 (Copley & West platform to lobby)","","","",1
+"963","963",1,"elevator","place-armnl","Park Street & North platform to lobby","Arlington Elevator 963 (Park Street & North platform to lobby)","","","",1
+"964","964",1,"elevator","place-armnl","Lobby to street","Arlington Elevator 964 (Lobby to street)","","","",1
+"965","965",1,"elevator","place-mvbcl","Platform to Maverick Square, busway","Maverick Elevator 965 (Platform to Maverick Square, busway)","","","",1
+"966","966",1,"elevator","place-mvbcl","Platform to Lewis Courtyard","Maverick Elevator 966 (Platform to Lewis Courtyard)","","","",1
+"967","967",1,"elevator","place-state","Oak Grove platform to Forest Hills, Wonderland platforms","State Street Elevator 967 (Oak Grove platform to Forest Hills, Wonderland platforms)","","","",1
+"968","968",1,"elevator","place-asmnl","Peabody Square lobby to Alewife platform","Ashmont Elevator 968 (Peabody Square lobby to Alewife platform)","","","",1
+"969","969",1,"elevator","place-asmnl","Mattapan Line lobby to Alewife platform","Ashmont Elevator 969 (Mattapan Line lobby to Alewife platform)","","","",1
+"970","970",1,"elevator","place-asmnl","Ashmont platform to Mattapan Line lobby, busway","Ashmont Elevator 970 (Ashmont platform to Mattapan Line lobby, busway)","","","",1
+"971","971",1,"elevator","place-kencl","Westbound platform to lobby","Kenmore Elevator 971 (Westbound platform to lobby)","","","",1
+"972","972",1,"elevator","place-kencl","Park Street & North platform to lobby, busway","Kenmore Elevator 972 (Park Street & North platform to lobby, busway)","","","",1
+"973","973",1,"elevator","place-harsq","Upper busway to Brattle Square","Harvard Elevator 973 (Upper busway to Brattle Square)","","","",1
+"974","974",1,"elevator","place-state","Bowdoin platform to Congress Street, State Street","State Street Elevator 974 (Bowdoin platform to Congress Street, State Street)","","","",1
+"975","975",1,"elevator","place-state","Wonderland platform to Congress Street, Exchange Place","State Street Elevator 975 (Wonderland platform to Congress Street, Exchange Place)","","","",1
+"976","976",1,"elevator","place-coecl","Park Street & North lobby to street","Copley Elevator 976 (Park Street & North lobby to street)","","","",1
+"977","977",1,"elevator","place-coecl","Kenmore & West, Heath Street lobby to street","Copley Elevator 977 (Kenmore & West, Heath Street lobby to street)","","","",1
+"978","978",1,"elevator","place-pktrm","Copley & West platform to street","Park Street Elevator 978 (Copley & West platform to street)","","","",1
+"979","979",1,"elevator","place-pktrm","Red Line center platform to Copley & West platform","Park Street Elevator 979 (Red Line center platform to Copley & West platform)","","","",1
+"980","980",1,"elevator","place-spmnl","Copley & West platform to lobby","Science Park Elevator 980 (Copley & West platform to lobby)","","","",1
+"981","981",1,"elevator","place-spmnl","Lechmere platform to lobby","Science Park Elevator 981 (Lechmere platform to lobby)","","","",1
+"982","982",1,"elevator","place-portr","Lobby to street","Porter Elevator 982 (Lobby to street)","","","",1
+"983","983",1,"elevator","place-portr","Red Line platforms to lobby","Porter Elevator 983 (Red Line platforms to lobby)","","","",1
+"985","985",1,"elevator","place-portr","Lobby to street","Porter Elevator 985 (Lobby to street)","","","",1
+"986","986",1,"elevator","place-portr","Commuter Rail platform to lobby","Porter Elevator 986 (Commuter Rail platform to lobby)","","","",1
+"987","987",1,"elevator","place-portr","Red Line platforms to lobby","Porter Elevator 987 (Red Line platforms to lobby)","","","",1
+"6476","6476",1,"elevator","place-sstat","Red Line, Airport/Design Center lobby to Commuter Rail lobby","South Station Elevator 6476 (Red Line, Airport/Design Center lobby to Commuter Rail lobby)","","","",1
+"subplat-WR-0228","",2,"elevated-subplatform","Andover","Mini-high platform","Andover mini-high platform","","","",1
+"subplat-WML-0252","",2,"elevated-subplatform","Ashland","Mini-high platform","Ashland mini-high platform","","","",1
+"subplat-NEC-1969","",2,"elevated-subplatform","Attleboro","Mini-high platform","Attleboro mini-high platform","","","",1
+"subplat-bbsta-5","",2,"elevated-subplatform","place-bbsta","Mini-high platform (Commuter Rail - Track 5)","Back Bay mini-high platform (Commuter Rail - Track 5)","","","",1
+"subplat-bbsta-7","",2,"elevated-subplatform","place-bbsta","Mini-high platform (Commuter Rail - Track 7)","Back Bay mini-high platform (Commuter Rail - Track 7)","","","",1
+"subplat-WR-0205","",2,"elevated-subplatform","Ballardvale","Mini-high platform","Ballardvale mini-high platform","","","",1
+"subplat-NB-0072","",2,"elevated-subplatform","Bellevue","Mini-high platform","Bellevue mini-high platform","","","",1
+"subplat-ER-0183","",2,"elevated-subplatform","Beverly","Mini-high platform","Beverly mini-high platform","","","",1
+"subplat-GB-0229","",2,"elevated-subplatform","Beverly Farms","Mini-high platform","Beverly Farms mini-high platform","","","",1
+"subplat-WR-0325","",2,"elevated-subplatform","Bradford","Mini-high platform","Bradford mini-high platform","","","",1
+"subplat-FR-0115","",2,"elevated-subplatform","Brandeis/ Roberts","Mini-high platform","Brandeis/Roberts mini-high platform","","","",1
+"subplat-SB-0156","",2,"elevated-subplatform","Canton Center","Mini-high platform","Canton Center mini-high platform","","","",1
+"subplat-NEC-2139","",2,"elevated-subplatform","Canton Junction","Mini-high platform","Canton Junction mini-high platform","","","",1
+"subplat-FB-0118","",2,"elevated-subplatform","Dedham Corp Center","Mini-high platform","Dedham Corp Center mini-high platform","","","",1
+"subplat-DB-2205","",2,"elevated-subplatform","Fairmount","Mini-high platform","Fairmount mini-high platform","","","",1
+"subplat-FR-0494","",2,"elevated-subplatform","Fitchburg","Mini-high platform","Fitchburg mini-high platform","","","",1
+"subplat-FB-0303","",2,"elevated-subplatform","Forge Park / 495","Mini-high platform","Forge Park/495 mini-high platform","","","",1
+"subplat-FS-0049","",2,"elevated-subplatform","Foxboro","Mini-high platform","Foxboro mini-high platform","","","",1
+"subplat-WML-0214","",2,"elevated-subplatform","Framingham","Mini-high platform","Framingham mini-high platform","","","",1
+"subplat-GB-0316","",2,"elevated-subplatform","Gloucester","Mini-high platform","Gloucester mini-high platform","","","",1
+"subplat-WML-0364","",2,"elevated-subplatform","Grafton","Mini-high platform","Grafton mini-high platform","","","",1
+"subplat-ER-0227","",2,"elevated-subplatform","Hamilton/ Wenham","Mini-high platform","Hamilton/Wenham mini-high platform","","","",1
+"subplat-WR-0329","",2,"elevated-subplatform","Haverhill","Mini-high platform","Haverhill mini-high platform","","","",1
+"subplat-NB-0109","",2,"elevated-subplatform","Hersey","Mini-high platform","Hersey mini-high platform","","","",1
+"subplat-NB-0076","",2,"elevated-subplatform","Highland","Mini-high platform","Highland mini-high platform","","","",1
+"subplat-NEC-2203","",2,"elevated-subplatform","Hyde Park","Mini-high platform","Hyde Park mini-high platform","","","",1
+"subplat-025","",2,"elevated-subplatform","Ipswich","Mini-high platform","Ipswich mini-high platform","","","",1
+"subplat-GB-0254","",2,"elevated-subplatform","Manchester","Mini-high platform","Manchester mini-high platform","","","",1
+"subplat-NEC-2040","",2,"elevated-subplatform","Mansfield","Mini-high platform","Mansfield mini-high platform","","","",1
+"subplat-WR-0075","",2,"elevated-subplatform","Melrose Highlands","Mini-high platform","Melrose Highlands mini-high platform","","","",1
+"subplat-NHRML-0116","",2,"elevated-subplatform","Mishawum","Mini-high platform","Mishawum mini-high platform","","","",1
+"subplat-GB-0198","",2,"elevated-subplatform","Montserrat","Mini-high platform","Montserrat mini-high platform","","","",1
+"subplat-NB-0127","",2,"elevated-subplatform","Needham Center","Mini-high platform","Needham Center mini-high platform","","","",1
+"subplat-NB-0137","",2,"elevated-subplatform","Needham Heights","Mini-high platform","Needham Heights mini-high platform","","","",1
+"subplat-NB-0120","",2,"elevated-subplatform","Needham Junction","Mini-high platform","Needham Junction mini-high platform","","","",1
+"subplat-FB-0230","",2,"elevated-subplatform","Norfolk","Mini-high platform","Norfolk mini-high platform","","","",1
+"subplat-ER-0208","",2,"elevated-subplatform","North Beverly","Mini-high platform","North Beverly mini-high platform","","","",1
+"subplat-NHRML-0218","",2,"elevated-subplatform","North Billerica","Mini-high platform","North Billerica mini-high platform","","","",1
+"subplat-FR-0451","",2,"elevated-subplatform","North Leominster","Mini-high platform","North Leominster mini-high platform","","","",1
+"subplat-FB-0148","",2,"elevated-subplatform","Norwood Central","Mini-high platform","Norwood Central mini-high platform","","","",1
+"subplat-FB-0143","",2,"elevated-subplatform","Norwood Depot","Mini-high platform","Norwood Depot mini-high platform","","","",1
+"subplat-WR-0120","",2,"elevated-subplatform","Reading","Mini-high platform","Reading mini-high platform","","","",1
+"subplat-DB-0095","",2,"elevated-subplatform","Readville","Mini-high platform","Readville mini-high platform","","","",1
+"subplat-GB-0353","",2,"elevated-subplatform","Rockport","Mini-high platform","Rockport mini-high platform","","","",1
+"subplat-NB-0064","",2,"elevated-subplatform","Roslindale Village","Mini-high platform","Roslindale Village mini-high platform","","","",1
+"subplat-ER-0168","",2,"elevated-subplatform","Salem","Mini-high platform","Salem mini-high platform","","","",1
+"subplat-NEC-1919","",2,"elevated-subplatform","South Attleboro","Mini-high platform","South Attleboro mini-high platform","","","",1
+"subplat-WML-0274","",2,"elevated-subplatform","Southborough","Mini-high platform","Southborough mini-high platform","","","",1
+"subplat-SB-0189","",2,"elevated-subplatform","Stoughton","Mini-high platform","Stoughton mini-high platform","","","",1
+"subplat-ER-0128","",2,"elevated-subplatform","Swampscott","Mini-high platform","Swampscott mini-high platform","","","",1
+"subplat-FR-0098","",2,"elevated-subplatform","Waltham","Mini-high platform","Waltham mini-high platform","","","",1
+"subplat-FR-0219","",2,"elevated-subplatform","West Concord","Mini-high platform","West Concord mini-high platform","","","",1
+"subplat-GB-0296","",2,"elevated-subplatform","West Gloucester","Mini-high platform","West Gloucester mini-high platform","","","",1
+"subplat-WML-0199","",2,"elevated-subplatform","West Natick","Mini-high platform","West Natick mini-high platform","","","",1
+"subplat-NB-0080","",2,"elevated-subplatform","West Roxbury","Mini-high platform","West Roxbury mini-high platform","","","",1
+"subplat-WML-0340","",2,"elevated-subplatform","Westborough","Mini-high platform","Westborough mini-high platform","","","",1
+"subplat-NHRML-0152","",2,"elevated-subplatform","Wilmington","Mini-high platform","Wilmington mini-high platform","","","",1
+"subplat-WML-0442","",2,"elevated-subplatform","Worcester","Mini-high platform","Worcester mini-high platform","","","",1
+"subplat-lake","",2,"elevated-subplatform","place-lake","Mini-high platform","Boston College mini-high platform","","","",1
+"subplat-bucen","",2,"elevated-subplatform","place-bucen","Mini-high platform (Park Street & North)","Boston University Central mini-high platform (Park Street & North)","","","",1
+"subplat-bvmnl-0","",2,"elevated-subplatform","place-bvmnl","Mini-high platform (Park Street & North)","Brookline Village mini-high platform (Park Street & North)","","","",1
+"subplat-bvmnl-1","",2,"elevated-subplatform","place-bvmnl","Mini-high platform (Riverside)","Brookline Village mini-high platform (Riverside)","","","",1
+"subplat-butlr-0","",2,"elevated-subplatform","place-butlr","Mini-high platform (Mattapan)","Butler mini-high platform (Mattapan)","","","",1
+"subplat-butlr-1","",2,"elevated-subplatform","place-butlr","Mini-high platform (Ashmont)","Butler mini-high platform (Ashmont)","","","",1
+"subplat-capst-0","",2,"elevated-subplatform","place-capst","Mini-high platform (Mattapan)","Capen Street mini-high platform (Mattapan)","","","",1
+"subplat-capst-1","",2,"elevated-subplatform","place-capst","Mini-high platform (Ashmont)","Capen Street mini-high platform (Ashmont)","","","",1
+"subplat-cedgr-0","",2,"elevated-subplatform","place-cedgr","Mini-high platform (Mattapan)","Cedar Grove mini-high platform (Mattapan)","","","",1
+"subplat-cedgr-1","",2,"elevated-subplatform","place-cedgr","Mini-high platform (Ashmont)","Cedar Grove mini-high platform (Ashmont)","","","",1
+"subplat-cenav-0","",2,"elevated-subplatform","place-cenav","Mini-high platform (Mattapan)","Central Avenue mini-high platform (Mattapan)","","","",1
+"subplat-cenav-1","",2,"elevated-subplatform","place-cenav","Mini-high platform (Ashmont)","Central Avenue mini-high platform (Ashmont)","","","",1
+"subplat-fenwy","",2,"elevated-subplatform","place-fenwy","Mini-high platform (Park Street & North)","Fenway mini-high platform (Park Street & North)","","","",1
+"subplat-hsmnl","",2,"elevated-subplatform","place-hsmnl","Mini-high platform","Heath Street mini-high platform","","","",1
+"subplat-matt-0","",2,"elevated-subplatform","place-matt","Mini-high platform (Exit Only)","Mattapan mini-high platform (Exit Only)","","","",1
+"subplat-matt-1","",2,"elevated-subplatform","place-matt","Mini-high platform (Ashmont)","Mattapan mini-high platform (Ashmont)","","","",1
+"subplat-miltt-0","",2,"elevated-subplatform","place-miltt","Mini-high platform (Mattapan)","Milton mini-high platform (Mattapan)","","","",1
+"subplat-miltt-1","",2,"elevated-subplatform","place-miltt","Mini-high platform (Ashmont)","Milton mini-high platform (Ashmont)","","","",1
+"subplat-mfa","",2,"elevated-subplatform","place-mfa","Mini-high platform (Heath Street)","Museum of Fine Arts mini-high platform (Heath Street)","","","",1
+"subplat-newto","",2,"elevated-subplatform","place-newto","Mini-high platform (Park Street & North)","Newton Centre mini-high platform (Park Street & North)","","","",1
+"subplat-spmnl-0","",2,"elevated-subplatform","place-spmnl","Mini-high platform (Lechmere)","Science Park mini-high platform (Lechmere)","","","",1
+"subplat-spmnl-1","",2,"elevated-subplatform","place-spmnl","Mini-high platform (Copley & West)","Science Park mini-high platform (Copley & West)","","","",1
+"subplat-smary","",2,"elevated-subplatform","place-smary","Mini-high platform (Cleveland Circle)","Saint Marys Street mini-high platform (Cleveland Circle)","","","",1
+"subplat-wascm-0","",2,"elevated-subplatform","place-wascm","Mini-high platform (Park Street & North)","Washington Street mini-high platform (Park Street & North)","","","",1
+"subplat-wascm-1","",2,"elevated-subplatform","place-wascm","Mini-high platform (Boston College)","Washington Street mini-high platform (Boston College)","","","",1
+"highlevel-PB-0194","",2,"fully-elevated-platform","Abington","High-level platform","Abington high-level platform","","","",1
+"highlevel-NHRML-0127","",2,"fully-elevated-platform","Anderson/ Woburn","High-level platform","Anderson/Woburn high-level platform","","","",1
+"highlevel-bbsta-0","",2,"fully-elevated-platform","place-bbsta","High-level platform (Commuter Rail)","Back Bay high-level platform (Commuter Rail)","","","",1
+"highlevel-bbsta-1","",2,"fully-elevated-platform","place-bbsta","High-level platform (Commuter Rail - Track 1)","Back Bay high-level platform (Commuter Rail - Track 1)","","","",1
+"highlevel-bbsta-2","",2,"fully-elevated-platform","place-bbsta","High-level platform (Commuter Rail - Track 2)","Back Bay high-level platform (Commuter Rail - Track 2)","","","",1
+"highlevel-bbsta-3","",2,"fully-elevated-platform","place-bbsta","High-level platform (Commuter Rail - Track 3)","Back Bay high-level platform (Commuter Rail - Track 3)","","","",1
+"highlevel-WML-0035","",2,"fully-elevated-platform","Boston Landing","High-level platform","Boston Landing high-level platform","","","",1
+"highlevel-brntn","",2,"fully-elevated-platform","place-brntn","High-level platform (Commuter Rail)","Braintree high-level platform (Commuter Rail)","","","",1
+"highlevel-MM-0277","",2,"fully-elevated-platform","Bridgewater","High-level platform","Bridgewater high-level platform","","","",1
+"highlevel-MM-0200","",2,"fully-elevated-platform","Brockton","High-level platform","Brockton high-level platform","","","",1
+"highlevel-MM-0219","",2,"fully-elevated-platform","Campello","High-level platform","Campello high-level platform","","","",1
+"highlevel-GRB-0199","",2,"fully-elevated-platform","Cohasset","High-level platform","Cohasset high-level platform","","","",1
+"highlevel-GRB-0146","",2,"fully-elevated-platform","East Weymouth","High-level platform","East Weymouth high-level platform","","","",1
+"highlevel-forhl","",2,"fully-elevated-platform","place-forhl","High-level platform (Commuter Rail)","Forest Hills high-level platform (Commuter Rail)","","","",1
+"highlevel-DB-2249","",2,"fully-elevated-platform","Four Corners / Geneva","High-level platform","Four Corners/Geneva high-level platform","","","",1
+"highlevel-GRB-0276","",2,"fully-elevated-platform","Greenbush","High-level platform","Greenbush high-level platform","","","",1
+"highlevel-PB-0281","",2,"fully-elevated-platform","Halifax","High-level platform","Halifax high-level platform","","","",1
+"highlevel-PB-0245","",2,"fully-elevated-platform","Hanson","High-level platform","Hanson high-level platform","","","",1
+"highlevel-MM-0150","",2,"fully-elevated-platform","Holbrook/ Randolph","High-level platform","Holbrook/Randolph high-level platform","","","",1
+"highlevel-jfk","",2,"fully-elevated-platform","place-jfk","High-level platform (Commuter Rail)","JFK/UMass high-level platform (Commuter Rail)","","","",1
+"highlevel-KB-0351","",2,"fully-elevated-platform","Kingston","High-level platform","Kingston high-level platform","","","",1
+"highlevel-FR-0301","",2,"fully-elevated-platform","Littleton / Rte 495","High-level platform","Littleton/Rte 495 high-level platform","","","",1
+"highlevel-ER-0115","",2,"fully-elevated-platform","Lynn","High-level platform","Lynn high-level platform","","","",1
+"highlevel-mlmnl","",2,"fully-elevated-platform","place-mlmnl","High-level platform (Commuter Rail)","Malden Center high-level platform (Commuter Rail)","","","",1
+"highlevel-MM-0356","",2,"fully-elevated-platform","Middleborough/ Lakeville","High-level platform","Middleborough/Lakeville high-level platform","","","",1
+"highlevel-MM-0186","",2,"fully-elevated-platform","Montello","High-level platform","Montello high-level platform","","","",1
+"highlevel-DB-2230","",2,"fully-elevated-platform","Morton Street","High-level platform","Morton Street high-level platform","","","",1
+"highlevel-GRB-0183","",2,"fully-elevated-platform","Nantasket Junction","High-level platform","Nantasket Junction high-level platform","","","",1
+"highlevel-ER-0362","",2,"fully-elevated-platform","Newburyport","High-level platform","Newburyport high-level platform","","","",1
+"highlevel-DB-2265","",2,"fully-elevated-platform","Newmarket","High-level platform","Newmarket high-level platform","","","",1
+"highlevel-GRB-0233","",2,"fully-elevated-platform","North Scituate","High-level platform","North Scituate high-level platform","","","",1
+"highlevel-north-0","",2,"fully-elevated-platform","place-north","High-level platform (Commuter Rail)","North Station high-level platform (Commuter Rail)","","","",1
+"highlevel-north-1","",2,"fully-elevated-platform","place-north","High-level platform (Commuter Rail - Track 1)","North Station high-level platform (Commuter Rail - Track 1)","","","",1
+"highlevel-north-2","",2,"fully-elevated-platform","place-north","High-level platform (Commuter Rail - Track 2)","North Station high-level platform (Commuter Rail - Track 2)","","","",1
+"highlevel-north-3","",2,"fully-elevated-platform","place-north","High-level platform (Commuter Rail - Track 3)","North Station high-level platform (Commuter Rail - Track 3)","","","",1
+"highlevel-north-4","",2,"fully-elevated-platform","place-north","High-level platform (Commuter Rail - Track 4)","North Station high-level platform (Commuter Rail - Track 4)","","","",1
+"highlevel-north-5","",2,"fully-elevated-platform","place-north","High-level platform (Commuter Rail - Track 5)","North Station high-level platform (Commuter Rail - Track 5)","","","",1
+"highlevel-north-6","",2,"fully-elevated-platform","place-north","High-level platform (Commuter Rail - Track 6)","North Station high-level platform (Commuter Rail - Track 6)","","","",1
+"highlevel-north-7","",2,"fully-elevated-platform","place-north","High-level platform (Commuter Rail - Track 7)","North Station high-level platform (Commuter Rail - Track 7)","","","",1
+"highlevel-north-8","",2,"fully-elevated-platform","place-north","High-level platform (Commuter Rail - Track 8)","North Station high-level platform (Commuter Rail - Track 8)","","","",1
+"highlevel-north-9","",2,"fully-elevated-platform","place-north","High-level platform (Commuter Rail - Track 9)","North Station high-level platform (Commuter Rail - Track 9)","","","",1
+"highlevel-north-10","",2,"fully-elevated-platform","place-north","High-level platform (Commuter Rail - Track 10)","North Station high-level platform (Commuter Rail - Track 10)","","","",1
+"highlevel-PB-0356","",2,"fully-elevated-platform","Plymouth","High-level platform","Plymouth high-level platform","","","",1
+"highlevel-NEC-1851","",2,"fully-elevated-platform","Providence","High-level platform","Providence high-level platform","","","",1
+"highlevel-qnctr","",2,"fully-elevated-platform","place-qnctr","High-level platform (Commuter Rail)","Quincy Center high-level platform (Commuter Rail)","","","",1
+"highlevel-NEC-2173","",2,"fully-elevated-platform","Route 128","High-level platform","Route 128 high-level platform","","","",1
+"highlevel-ER-0312","",2,"fully-elevated-platform","Rowley","High-level platform","Rowley high-level platform","","","",1
+"highlevel-rugg","",2,"fully-elevated-platform","place-rugg","High-level platform (Commuter Rail)","Ruggles high-level platform (Commuter Rail)","","","",1
+"highlevel-ER-0168","",2,"fully-elevated-platform","Salem","High-level platform","Salem high-level platform","","","",1
+"highlevel-FR-0253","",2,"fully-elevated-platform","South Acton","High-level platform","South Acton high-level platform","","","",1
+"highlevel-sstat-0","",2,"fully-elevated-platform","place-sstat","High-level platform (Commuter Rail)","South Station high-level platform (Commuter Rail)","","","",1
+"highlevel-sstat-1","",2,"fully-elevated-platform","place-sstat","High-level platform (Commuter Rail - Track 1)","South Station high-level platform (Commuter Rail - Track 1)","","","",1
+"highlevel-sstat-2","",2,"fully-elevated-platform","place-sstat","High-level platform (Commuter Rail - Track 2)","South Station high-level platform (Commuter Rail - Track 2)","","","",1
+"highlevel-sstat-3","",2,"fully-elevated-platform","place-sstat","High-level platform (Commuter Rail - Track 3)","South Station high-level platform (Commuter Rail - Track 3)","","","",1
+"highlevel-sstat-4","",2,"fully-elevated-platform","place-sstat","High-level platform (Commuter Rail - Track 4)","South Station high-level platform (Commuter Rail - Track 4)","","","",1
+"highlevel-sstat-5","",2,"fully-elevated-platform","place-sstat","High-level platform (Commuter Rail - Track 5)","South Station high-level platform (Commuter Rail - Track 5)","","","",1
+"highlevel-sstat-6","",2,"fully-elevated-platform","place-sstat","High-level platform (Commuter Rail - Track 6)","South Station high-level platform (Commuter Rail - Track 6)","","","",1
+"highlevel-sstat-7","",2,"fully-elevated-platform","place-sstat","High-level platform (Commuter Rail - Track 7)","South Station high-level platform (Commuter Rail - Track 7)","","","",1
+"highlevel-sstat-8","",2,"fully-elevated-platform","place-sstat","High-level platform (Commuter Rail - Track 8)","South Station high-level platform (Commuter Rail - Track 8)","","","",1
+"highlevel-sstat-9","",2,"fully-elevated-platform","place-sstat","High-level platform (Commuter Rail - Track 9)","South Station high-level platform (Commuter Rail - Track 9)","","","",1
+"highlevel-sstat-10","",2,"fully-elevated-platform","place-sstat","High-level platform (Commuter Rail - Track 10)","South Station high-level platform (Commuter Rail - Track 10)","","","",1
+"highlevel-sstat-11","",2,"fully-elevated-platform","place-sstat","High-level platform (Commuter Rail - Track 11)","South Station high-level platform (Commuter Rail - Track 11)","","","",1
+"highlevel-sstat-12","",2,"fully-elevated-platform","place-sstat","High-level platform (Commuter Rail - Track 12)","South Station high-level platform (Commuter Rail - Track 12)","","","",1
+"highlevel-sstat-13","",2,"fully-elevated-platform","place-sstat","High-level platform (Commuter Rail - Track 13)","South Station high-level platform (Commuter Rail - Track 13)","","","",1
+"highlevel-PB-0158","",2,"fully-elevated-platform","South Weymouth","High-level platform","South Weymouth high-level platform","","","",1
+"highlevel-NEC-1768","",2,"fully-elevated-platform","Talbot Avenue","High-level platform","Talbot Avenue high-level platform","","","",1
+"highlevel-DB-2240","",2,"fully-elevated-platform","TF Green Airport","High-level platform","TF Green Airport high-level platform","","","",1
+"highlevel-DB-2258","",2,"fully-elevated-platform","Uphams Corner","High-level platform","Uphams Corner high-level platform","","","",1
+"highlevel-FR-3338","",2,"fully-elevated-platform","Wachusett","High-level platform","Wachusett high-level platform","","","",1
+"highlevel-GRB-0162","",2,"fully-elevated-platform","West Hingham","High-level platform","West Hingham high-level platform","","","",1
+"highlevel-GRB-0118","",2,"fully-elevated-platform","Weymouth Landing/ East Braintree","High-level platform","Weymouth Landing/East Braintree high-level platform","","","",1
+"highlevel-PB-0212","",2,"fully-elevated-platform","Whitman","High-level platform","Whitman high-level platform","","","",1
+"highlevel-NEC-1659","",2,"fully-elevated-platform","Wickford Junction","High-level platform","Wickford Junction high-level platform","","","",1
+"highlevel-WML-0025","",2,"fully-elevated-platform","Yawkey","High-level platform","Yawkey high-level platform","","","",1
+"portlift-lake","",2,"portable-boarding-lift","place-lake","Mobile lift","Boston College mobile lift","","","",1
+"portlift-smary","",2,"portable-boarding-lift","place-smary","Mobile lift (Park Street & North)","Saint Marys Street mobile lift (Park Street & North)","","","",1
+"portlift-bucen","",2,"portable-boarding-lift","place-bucen","Mobile lift (Boston College)","Boston University Central mobile lift (Boston College)","","","",1
+"portlift-newto","",2,"portable-boarding-lift","place-newto","Mobile lift (Riverside)","Newton Centre mobile lift (Riverside)","","","",1
+"portlift-hsmnl","",2,"portable-boarding-lift","place-hsmnl","Mobile lift","Heath Street mobile lift","","","",1
+"portlift-mfa","",2,"portable-boarding-lift","place-mfa","Mobile lift (Park Street & North)","Museum of Fine Arts mobile lift (Park Street & North)","","","",1
+"portlift-armnl-0","",2,"portable-boarding-lift","place-armnl","Mobile lift (Park Street & North)","Arlington mobile lift (Park Street & North)","","","",1
+"portlift-armnl-1","",2,"portable-boarding-lift","place-armnl","Mobile lift (Copley & West)","Arlington mobile lift (Copley & West)","","","",1
+"portlift-asmnl","",2,"portable-boarding-lift","place-asmnl","Mobile lift (Mattapan Trolley)","Ashmont mobile lift (Mattapan Trolley)","","","",1
+"portlift-buest","",2,"portable-boarding-lift","place-buest","Mobile lift","Boston University East mobile lift","","","",1
+"portlift-brmnl-0","",2,"portable-boarding-lift","place-brmnl","Mobile lift (Heath Street)","Brigham Circle mobile lift (Heath Street)","","","",1
+"portlift-brmnl-1","",2,"portable-boarding-lift","place-brmnl","Mobile lift (Park Street & North)","Brigham Circle mobile lift (Park Street & North)","","","",1
+"portlift-clmnl","",2,"portable-boarding-lift","place-clmnl","Mobile lift","Cleveland Circle mobile lift","","","",1
+"portlift-cool-0","",2,"portable-boarding-lift","place-cool","Mobile lift (Cleveland Circle)","Coolidge Corner mobile lift (Cleveland Circle)","","","",1
+"portlift-cool-1","",2,"portable-boarding-lift","place-cool","Mobile lift (Park Street & North)","Coolidge Corner mobile lift (Park Street & North)","","","",1
+"portlift-coecl-0","",2,"portable-boarding-lift","place-coecl","Mobile lift (Park Street & North)","Copley mobile lift (Park Street & North)","","","",1
+"portlift-coecl-1","",2,"portable-boarding-lift","place-coecl","Mobile lift (Kenmore & West/Heath Street)","Copley mobile lift (Kenmore & West/Heath Street)","","","",1
+"portlift-fenwy","",2,"portable-boarding-lift","place-fenwy","Mobile lift (Riverside)","Fenway mobile lift (Riverside)","","","",1
+"portlift-gover","",2,"portable-boarding-lift","place-gover","Mobile lift","Government Center mobile lift","","","",1
+"portlift-harvd-0","",2,"portable-boarding-lift","place-harvd","Mobile lift (Park Street & North)","Harvard Avenue mobile lift (Park Street & North)","","","",1
+"portlift-harvd-1","",2,"portable-boarding-lift","place-harvd","Mobile lift (Boston College)","Harvard Avenue mobile lift (Boston College)","","","",1
+"portlift-haecl-0","",2,"portable-boarding-lift","place-haecl","Mobile lift (North Station & North)","Haymarket mobile lift (North Station & North)","","","",1
+"portlift-haecl-1","",2,"portable-boarding-lift","place-haecl","Mobile lift (Copley & West)","Haymarket mobile lift (Copley & West)","","","",1
+"portlift-kencl","",2,"portable-boarding-lift","place-kencl","Mobile lift","Kenmore mobile lift","","","",1
+"portlift-lech-0","",2,"portable-boarding-lift","place-lech","Mobile lift (Exit Only)","Lechmere mobile lift (Exit Only)","","","",1
+"portlift-lech-1","",2,"portable-boarding-lift","place-lech","Mobile lift (Copley & West)","Lechmere mobile lift (Copley & West)","","","",1
+"portlift-lngmd-0","",2,"portable-boarding-lift","place-lngmd","Mobile lift (Heath Street)","Longwood Medical Area mobile lift (Heath Street)","","","",1
+"portlift-lngmd-1","",2,"portable-boarding-lift","place-lngmd","Mobile lift (Park Street & North)","Longwood Medical Area mobile lift (Park Street & North)","","","",1
+"portlift-newtn-0","",2,"portable-boarding-lift","place-newtn","Mobile lift (Park Street & North)","Newton Highlands mobile lift (Park Street & North)","","","",1
+"portlift-newtn-1","",2,"portable-boarding-lift","place-newtn","Mobile lift (Riverside)","Newton Highlands mobile lift (Riverside)","","","",1
+"portlift-north-0","",2,"portable-boarding-lift","place-north","Mobile lift (Lechmere)","North Station mobile lift (Lechmere)","","","",1
+"portlift-north-1","",2,"portable-boarding-lift","place-north","Mobile lift (Copley & West)","North Station mobile lift (Copley & West)","","","",1
+"portlift-nuniv-0","",2,"portable-boarding-lift","place-nuniv","Mobile lift (Heath Street)","Northeastern University mobile lift (Heath Street)","","","",1
+"portlift-nuniv-1","",2,"portable-boarding-lift","place-nuniv","Mobile lift (Park Street & North)","Northeastern University mobile lift (Park Street & North)","","","",1
+"portlift-pktrm-0","",2,"portable-boarding-lift","place-pktrm","Mobile lift (Government Center & North)","Park Street mobile lift (Government Center & North)","","","",1
+"portlift-pktrm-1","",2,"portable-boarding-lift","place-pktrm","Mobile lift","Park Street mobile lift","","","",1
+"portlift-prmnl-0","",2,"portable-boarding-lift","place-prmnl","Mobile lift (Heath Street)","Prudential mobile lift (Heath Street)","","","",1
+"portlift-prmnl-1","",2,"portable-boarding-lift","place-prmnl","Mobile lift (Park Street & North)","Prudential mobile lift (Park Street & North)","","","",1
+"portlift-rsmnl-0","",2,"portable-boarding-lift","place-rsmnl","Mobile lift (Park Street & North)","Reservoir mobile lift (Park Street & North)","","","",1
+"portlift-rsmnl-1","",2,"portable-boarding-lift","place-rsmnl","Mobile lift (Riverside)","Reservoir mobile lift (Riverside)","","","",1
+"portlift-river","",2,"portable-boarding-lift","place-river","Mobile lift","Riverside mobile lift","","","",1
+"portlift-bcnwa-0","",2,"portable-boarding-lift","place-bcnwa","Mobile lift (Cleveland Circle)","Washington Square mobile lift (Cleveland Circle)","","","",1
+"portlift-bcnwa-1","",2,"portable-boarding-lift","place-bcnwa","Mobile lift (Park Street & North)","Washington Square mobile lift (Park Street & North)","","","",1
+"portlift-woodl-0","",2,"portable-boarding-lift","place-woodl","Mobile lift (Park Street & North)","Woodland mobile lift (Park Street & North)","","","",1
+"portlift-woodl-1","",2,"portable-boarding-lift","place-woodl","Mobile lift (Riverside)","Woodland mobile lift (Riverside)","","","",1
+"portlift-brkhl-0","",2,"portable-boarding-lift","place-brkhl","Mobile lift (Park Street & North)","Brookline Hills mobile lift (Park Street & North)","","","",1
+"portlift-brkhl-1","",2,"portable-boarding-lift","place-brkhl","Mobile lift (Riverside)","Brookline Hills mobile lift (Riverside)","","","",1
+"ramp-alfcl","",2,"ramp","place-alfcl","Ramp access","Alewife ramp access","","","",1
+"ramp-NHRML-0127","",2,"ramp","Anderson/ Woburn","Ramp access","Anderson/Woburn ramp access","","","",1
+"ramp-WML-0252","",2,"ramp","Ashland","Ramp access","Ashland ramp access","","","",1
+"ramp-asmnl","",2,"ramp","place-asmnl","Ramp access","Ashmont ramp access","","","",1
+"ramp-NEC-1969","",2,"ramp","Attleboro","Ramp access","Attleboro ramp access","","","",1
+"ramp-brntn","",2,"ramp","place-brntn","Ramp access","Braintree ramp access","","","",1
+"ramp-NEC-2139","",2,"ramp","Canton Junction","Ramp access","Canton Junction ramp access","","","",1
+"ramp-Boat-Charlestown","",2,"ramp","Boat-Charlestown","Ramp access","Charlestown ramp access","","","",1
+"ramp-DB-2205","",2,"ramp","Fairmount","Ramp access","Fairmount ramp access","","","",1
+"ramp-DB-2249","",2,"ramp","Four Corners / Geneva","Ramp access","Four Corners/Geneva ramp access","","","",1
+"ramp-Boat-George","",2,"ramp","Boat-George","Ramp access","George's Island ramp access","","","",1
+"ramp-WML-0364","",2,"ramp","Grafton","Ramp access","Grafton ramp access","","","",1
+"ramp-harsq","",2,"ramp","place-harsq","Ramp access","Harvard ramp access","","","",1
+"ramp-Boat-Hingham","",2,"ramp","Boat-Hingham","Ramp access","Hingham ramp access","","","",1
+"ramp-NEC-2203","",2,"ramp","Hyde Park","Ramp access","Hyde Park ramp access","","","",1
+"ramp-jfk","",2,"ramp","place-jfk","Ramp access","JFK/UMass ramp access","","","",1
+"ramp-FR-0301","",2,"ramp","Littleton / Rte 495","Ramp access","Littleton/Rte 495 ramp access","","","",1
+"ramp-Boat-Logan","",2,"ramp","Boat-Logan","Ramp access","Logan Airport ramp access","","","",1
+"ramp-Boat-Long","",2,"ramp","Boat-Long","Ramp access","Boston (Long Wharf) ramp access","","","",1
+"ramp-masta","",2,"ramp","place-masta","Ramp access","Massachusetts Avenue ramp access","","","",1
+"ramp-DB-2265","",2,"ramp","Newmarket","Ramp access","Newmarket ramp access","","","",1
+"ramp-newto","",2,"ramp","place-newto","Ramp access","Newton Centre ramp access","","","",1
+"ramp-Boat-Hull","",2,"ramp","Boat-Hull","Ramp access","Hull ramp access","","","",1
+"ramp-DB-0095","",2,"ramp","Readville","Ramp access","Readville ramp access","","","",1
+"ramp-Boat-Rowes","",2,"ramp","Boat-Rowes","Ramp access","Boston (Rowes Wharf) ramp access","","","",1
+"ramp-NEC-2108","",2,"ramp","Sharon","Ramp access","Sharon ramp access","","","",1
+"ramp-NEC-1919","",2,"ramp","South Attleboro","Ramp access","South Attleboro ramp access","","","",1
+"ramp-WML-0274","",2,"ramp","Southborough","Ramp access","Southborough ramp access","","","",1
+"ramp-state","",2,"ramp","place-state","Ramp access","State Street ramp access","","","",1
+"ramp-sull","",2,"ramp","place-sull","Ramp access","Sullivan Square ramp access","","","",1
+"ramp-NEC-1768","",2,"ramp","Talbot Avenue","Ramp access","Talbot Avenue ramp access","","","",1
+"ramp-DB-2258","",2,"ramp","Uphams Corner","Ramp access","Uphams Corner ramp access","","","",1
+"ramp-FR-3338","",2,"ramp","Wachusett","Ramp access","Wachusett ramp access","","","",1
+"ramp-NHRML-0073","",2,"ramp","Wedgemere","Ramp access","Wedgemere ramp access","","","",1
+"ramp-welln","",2,"ramp","place-welln","Ramp access","Wellington ramp access","","","",1
+"ramp-WML-0340","",2,"ramp","Westborough","Ramp access","Westborough ramp access","","","",1
+"bike-PB-0194","",3,"bike-storage","Abington","Bike rack","Abington bike rack","","","",0
+"bike-WR-0228","",3,"bike-storage","Andover","Covered bike rack","Andover covered bike rack","","","",0
+"bike-NEC-1969","",3,"bike-storage","Attleboro","Bike rack","Attleboro bike rack","","","",0
+"bike-WR-0205","",3,"bike-storage","Ballardvale","Bike rack","Ballardvale bike rack","","","",0
+"bike-bmmnl","",3,"bike-storage","place-bmmnl","Bike rack","Beachmont bike rack","","","",0
+"bike-bcnfd","",3,"bike-storage","place-bcnfd","Bike rack","Beaconsfield bike rack","","","",0
+"bike-NB-0072","",3,"bike-storage","Bellevue","Bike rack","Bellevue bike rack","","","",0
+"bike-FR-0064","",3,"bike-storage","Belmont","Bike rack","Belmont bike rack","","","",0
+"bike-GB-0229","",3,"bike-storage","Beverly Farms","Bike rack","Beverly Farms bike rack","","","",0
+"bike-WR-0325","",3,"bike-storage","Bradford","Bike rack","Bradford bike rack","","","",0
+"bike-FR-0115","",3,"bike-storage","Brandeis/ Roberts","Bike rack","Brandeis/Roberts bike rack","","","",0
+"bike-MM-0277","",3,"bike-storage","Bridgewater","Bike rack","Bridgewater bike rack","","","",0
+"bike-MM-0200","",3,"bike-storage","Brockton","Bike rack","Brockton bike rack","","","",0
+"bike-brkhl","",3,"bike-storage","place-brkhl","Bike rack","Brookline Hills bike rack","","","",0
+"bike-bvmnl","",3,"bike-storage","place-bvmnl","Covered bike rack","Brookline Village covered bike rack","","","",0
+"bike-MM-0219","",3,"bike-storage","Campello","Bike rack","Campello bike rack","","","",0
+"bike-SB-0156","",3,"bike-storage","Canton Center","Bike rack","Canton Center bike rack","","","",0
+"bike-cntsq","",3,"bike-storage","place-cntsq","Covered bike rack","Central covered bike rack","","","",0
+"bike-chhil","",3,"bike-storage","place-chhil","Covered bike rack","Chestnut Hill covered bike rack","","","",0
+"bike-clmnl","",3,"bike-storage","place-clmnl","Bike rack","Cleveland Circle bike rack","","","",0
+"bike-ccmnl","",3,"bike-storage","place-ccmnl","Bike rack","Community College bike rack","","","",0
+"bike-FR-0201","",3,"bike-storage","Concord","Bike rack","Concord bike rack","","","",0
+"bike-cool","",3,"bike-storage","place-cool","Bike rack","Coolidge Corner bike rack","","","",0
+"bike-5098","",3,"bike-storage","5098","Bike rack","Washington St @ E Berkeley St bike rack","","","",0
+"bike-5095","",3,"bike-storage","5095","Bike rack","Washington St @ E Berkeley St bike rack","","","",0
+"bike-eliot","",3,"bike-storage","place-eliot","Covered bike rack","Eliot covered bike rack","","","",0
+"bike-DB-2205","",3,"bike-storage","Fairmount","Covered bike rack","Fairmount covered bike rack","","","",0
+"bike-fenwy","",3,"bike-storage","place-fenwy","Bike rack","Fenway bike rack","","","",0
+"bike-fldcr","",3,"bike-storage","place-fldcr","Covered bike rack","Fields Corner covered bike rack","","","",0
+"bike-FR-0494","",3,"bike-storage","Fitchburg","Bike rack","Fitchburg bike rack","","","",0
+"bike-FB-0303","",3,"bike-storage","Forge Park / 495","Bike rack","Forge Park/495 bike rack","","","",0
+"bike-DB-2249","",3,"bike-storage","Four Corners / Geneva","Bike rack","Four Corners/Geneva bike rack","","","",0
+"bike-WML-0214","",3,"bike-storage","Framingham","Bike rack","Framingham bike rack","","","",0
+"bike-FB-0275","",3,"bike-storage","Franklin","Bike rack","Franklin bike rack","","","",0
+"bike-GB-0316","",3,"bike-storage","Gloucester","Bike rack","Gloucester bike rack","","","",0
+"bike-WML-0364","",3,"bike-storage","Grafton","Bike rack","Grafton bike rack","","","",0
+"bike-grnst","",3,"bike-storage","place-grnst","Covered bike rack","Green Street covered bike rack","","","",0
+"bike-WR-0085","",3,"bike-storage","Greenwood","Bike rack","Greenwood bike rack","","","",0
+"bike-PB-0281","",3,"bike-storage","Halifax","Bike rack","Halifax bike rack","","","",0
+"bike-PB-0245","",3,"bike-storage","Hanson","Bike rack","Hanson bike rack","","","",0
+"bike-harsq","",3,"bike-storage","place-harsq","Bike rack","Harvard bike rack","","","",0
+"bike-WR-0329","",3,"bike-storage","Haverhill","Covered bike rack","Haverhill covered bike rack","","","",0
+"bike-49003","",3,"bike-storage","49003","Bike rack","Washington St @ Herald St bike rack","","","",0
+"bike-15095","",3,"bike-storage","15095","Bike rack","Washington St @ Herald St bike rack","","","",0
+"bike-NB-0109","",3,"bike-storage","Hersey","Covered bike rack","Hersey covered bike rack","","","",0
+"bike-MM-0150","",3,"bike-storage","Holbrook/ Randolph","Covered bike rack","Holbrook/Randolph covered bike rack","","","",0
+"bike-NEC-2203","",3,"bike-storage","Hyde Park","Bike rack","Hyde Park bike rack","","","",0
+"bike-ER-0276","",3,"bike-storage","Ipswich","Bike rack","Ipswich bike rack","","","",0
+"bike-jaksn","",3,"bike-storage","place-jaksn","Bike rack","Jackson Square bike rack","","","",0
+"bike-jfk","",3,"bike-storage","place-jfk","Covered bike rack","JFK/UMass covered bike rack","","","",0
+"bike-knncl","",3,"bike-storage","place-knncl","Bike rack","Kendall/MIT bike rack","","","",0
+"bike-kencl","",3,"bike-storage","place-kencl","Bike rack","Kenmore bike rack","","","",0
+"bike-60","",3,"bike-storage","60","Bike rack","Washington St @ Lenox St bike rack","","","",0
+"bike-4","",3,"bike-storage","4","Bike rack","Washington St @ Lenox St bike rack","","","",0
+"bike-FR-0167","",3,"bike-storage","Lincoln","Bike rack","Lincoln bike rack","","","",0
+"bike-longw","",3,"bike-storage","place-longw","Bike rack","Longwood bike rack","","","",0
+"bike-NHRML-0254","",3,"bike-storage","Lowell","Bike rack","Lowell bike rack","","","",0
+"bike-ER-0115","",3,"bike-storage","Lynn","Bike rack","Lynn bike rack","","","",0
+"bike-GB-0254","",3,"bike-storage","Manchester","Bike rack","Manchester bike rack","","","",0
+"bike-NEC-2040","",3,"bike-storage","Mansfield","Bike rack","Mansfield bike rack","","","",0
+"bike-masta","",3,"bike-storage","place-masta","Bike rack","Massachusetts Avenue bike rack","","","",0
+"bike-matt","",3,"bike-storage","place-matt","Bike rack","Mattapan bike rack","","","",0
+"bike-mvbcl","",3,"bike-storage","place-mvbcl","Covered bike rack","Maverick covered bike rack","","","",0
+"bike-61","",3,"bike-storage","61","Bike rack","Washington St @ Melnea Cass Blvd bike rack","","","",0
+"bike-3","",3,"bike-storage","3","Bike rack","Washington St @ Melnea Cass Blvd - Silver Line bike rack","","","",0
+"bike-MM-0356","",3,"bike-storage","Middleborough/ Lakeville","Bike rack","Middleborough/Lakeville bike rack","","","",0
+"bike-miltt","",3,"bike-storage","place-miltt","Bike rack","Milton bike rack","","","",0
+"bike-MM-0186","",3,"bike-storage","Montello","Covered bike rack","Montello covered bike rack","","","",0
+"bike-GB-0198","",3,"bike-storage","Montserrat","Bike rack","Montserrat bike rack","","","",0
+"bike-DB-2230","",3,"bike-storage","Morton Street","Covered bike rack","Morton Street covered bike rack","","","",0
+"bike-NB-0127","",3,"bike-storage","Needham Center","Bike rack","Needham Center bike rack","","","",0
+"bike-NB-0137","",3,"bike-storage","Needham Heights","Bike rack","Needham Heights bike rack","","","",0
+"bike-NB-0120","",3,"bike-storage","Needham Junction","Bike rack","Needham Junction bike rack","","","",0
+"bike-ER-0362","",3,"bike-storage","Newburyport","Bike rack","Newburyport bike rack","","","",0
+"bike-DB-2265","",3,"bike-storage","Newmarket","Bike rack","Newmarket bike rack","","","",0
+"bike-newto","",3,"bike-storage","place-newto","Bike rack","Newton Centre bike rack","","","",0
+"bike-1788","",3,"bike-storage","1788","Bike rack","Washington St @ E Newton St bike rack","","","",0
+"bike-FB-0230","",3,"bike-storage","Norfolk","Bike rack","Norfolk bike rack","","","",0
+"bike-NHRML-0218","",3,"bike-storage","North Billerica","Covered bike rack","North Billerica covered bike rack","","","",0
+"bike-nqncy","",3,"bike-storage","place-nqncy","Covered bike rack","North Quincy covered bike rack","","","",0
+"bike-north","",3,"bike-storage","place-north","Bike rack","North Station bike rack","","","",0
+"bike-FB-0148","",3,"bike-storage","Norwood Central","Bike rack","Norwood Central bike rack","","","",0
+"bike-orhte","",3,"bike-storage","place-orhte","Covered bike rack","Orient Heights covered bike rack","","","",0
+"bike-PB-0356","",3,"bike-storage","Plymouth","Bike rack","Plymouth bike rack","","","",0
+"bike-portr","",3,"bike-storage","place-portr","Bike rack","Porter bike rack","","","",0
+"bike-qamnl","",3,"bike-storage","place-qamnl","Bike rack","Quincy Adams bike rack","","","",0
+"bike-qnctr","",3,"bike-storage","place-qnctr","Bike rack","Quincy Center bike rack","","","",0
+"bike-WR-0120","",3,"bike-storage","Reading","Bike rack","Reading bike rack","","","",0
+"bike-rsmnl","",3,"bike-storage","place-rsmnl","Covered bike rack","Reservoir covered bike rack","","","",0
+"bike-rbmnl","",3,"bike-storage","place-rbmnl","Bike rack","Revere Beach bike rack","","","",0
+"bike-river","",3,"bike-storage","place-river","Covered bike rack","Riverside covered bike rack","","","",0
+"bike-GB-0353","",3,"bike-storage","Rockport","Bike rack","Rockport bike rack","","","",0
+"bike-ER-0312","",3,"bike-storage","Rowley","Bike rack","Rowley bike rack","","","",0
+"bike-rcmnl","",3,"bike-storage","place-rcmnl","Covered bike rack","Roxbury Crossing covered bike rack","","","",0
+"bike-rugg","",3,"bike-storage","place-rugg","Bike rack","Ruggles bike rack","","","",0
+"bike-NEC-2108","",3,"bike-storage","Sharon","Bike rack","Sharon bike rack","","","",0
+"bike-FR-0253","",3,"bike-storage","South Acton","Bike rack","South Acton bike rack","","","",0
+"bike-NEC-1919","",3,"bike-storage","South Attleboro","Bike rack","South Attleboro bike rack","","","",0
+"bike-PB-0158","",3,"bike-storage","South Weymouth","Covered bike rack","South Weymouth covered bike rack","","","",0
+"bike-smary","",3,"bike-storage","place-smary","Bike rack","Saint Marys Street bike rack","","","",0
+"bike-sbmnl","",3,"bike-storage","place-sbmnl","Covered bike rack","Stony Brook covered bike rack","","","",0
+"bike-SB-0189","",3,"bike-storage","Stoughton","Bike rack","Stoughton bike rack","","","",0
+"bike-sdmnl","",3,"bike-storage","place-sdmnl","Covered bike rack","Suffolk Downs covered bike rack","","","",0
+"bike-sull","",3,"bike-storage","place-sull","Covered bike rack","Sullivan Square covered bike rack","","","",0
+"bike-tapst","",3,"bike-storage","place-tapst","Bike rack","Tappan Street bike rack","","","",0
+"bike-5093","",3,"bike-storage","5093","Bike rack","Washington St @ Union Pk bike rack","","","",0
+"bike-5100","",3,"bike-storage","5100","Bike rack","Washington St @ Union Pk bike rack","","","",0
+"bike-waban","",3,"bike-storage","place-waban","Covered bike rack","Waban covered bike rack","","","",0
+"bike-FR-3338","",3,"bike-storage","Wachusett","Bike rack","Wachusett bike rack","","","",0
+"bike-WR-0099","",3,"bike-storage","Wakefield","Bike rack","Wakefield bike rack","","","",0
+"bike-FB-0191","",3,"bike-storage","Walpole","Bike rack","Walpole bike rack","","","",0
+"bike-FR-0098","",3,"bike-storage","Waltham","Covered bike rack","Waltham covered bike rack","","","",0
+"bike-bcnwa","",3,"bike-storage","place-bcnwa","Bike rack","Washington Square bike rack","","","",0
+"bike-FR-0074","",3,"bike-storage","Waverley","Covered bike rack","Waverley covered bike rack","","","",0
+"bike-WML-0125","",3,"bike-storage","Wellesley Farms","Bike rack","Wellesley Farms bike rack","","","",0
+"bike-WML-0135","",3,"bike-storage","Wellesley Hills","Covered bike rack","Wellesley Hills covered bike rack","","","",0
+"bike-WML-0147","",3,"bike-storage","Wellesley Square","Covered bike rack","Wellesley Square covered bike rack","","","",0
+"bike-welln","",3,"bike-storage","place-welln","Covered bike rack","Wellington covered bike rack","","","",0
+"bike-FR-0219","",3,"bike-storage","West Concord","Bike rack","West Concord bike rack","","","",0
+"bike-GB-0296","",3,"bike-storage","West Gloucester","Bike rack","West Gloucester bike rack","","","",0
+"bike-WML-0199","",3,"bike-storage","West Natick","Bike rack","West Natick bike rack","","","",0
+"bike-19402","",3,"bike-storage","19402","Bike rack","Washington St @ W Newton St bike rack","","","",0
+"bike-NB-0080","",3,"bike-storage","West Roxbury","Covered bike rack","West Roxbury covered bike rack","","","",0
+"bike-WML-0340","",3,"bike-storage","Westborough","Bike rack","Westborough bike rack","","","",0
+"bike-GRB-0118","",3,"bike-storage","Weymouth Landing/ East Braintree","Covered bike rack","Weymouth Landing/East Braintree covered bike rack","","","",0
+"bike-PB-0212","",3,"bike-storage","Whitman","Bike rack","Whitman bike rack","","","",0
+"bike-NEC-1659","",3,"bike-storage","Wickford Junction","Bike rack","Wickford Junction bike rack","","","",0
+"bike-NHRML-0078","",3,"bike-storage","Winchester Center","Bike rack","Winchester Center bike rack","","","",0
+"bike-wimnl","",3,"bike-storage","place-wimnl","Covered bike rack","Wood Island covered bike rack","","","",0
+"bike-woodl","",3,"bike-storage","place-woodl","Bike rack","Woodland bike rack","","","",0
+"bike-1787","",3,"bike-storage","1787","Bike rack","Washington St @ Worcester St bike rack","","","",0
+"bike-15176","",3,"bike-storage","15176","Bike rack","Washington St @ Worcester St bike rack","","","",0
+"bike-WML-0442","",3,"bike-storage","Worcester","Covered bike rack","Worcester covered bike rack","","","",0
+"bike-WR-0062","",3,"bike-storage","Wyoming Hill","Covered bike rack","Wyoming Hill covered bike rack","","","",0
+"bike-7922","",3,"bike-storage","7922","Covered bike rack","Arlington Heights Busway covered bike rack","","","",0
+"bike-8178","",3,"bike-storage","8178","Covered bike rack","Watertown Sq Terminal covered bike rack","","","",0
+"bike-alfcl-west","",3,"bike-storage","place-alfcl","Pedal and Park","Alewife Pedal and Park","","42.395974","-71.142622",0
+"bike-alfcl-east","",3,"bike-storage","place-alfcl","Pedal and Park","Alewife Pedal and Park","","42.395806","-71.140957",0
+"bike-alfcl-central","",3,"bike-storage","place-alfcl","Pedal and Park","Alewife Pedal and Park","","42.395539","-71.142084",0
+"bike-asmnl","",3,"bike-storage","place-asmnl","Pedal and Park","Ashmont Pedal and Park","","42.283565","-71.064698",0
+"bike-bbsta","",3,"bike-storage","place-bbsta","Pedal and Park","Back Bay Pedal and Park","","42.347498","-71.074822",0
+"bike-ER-0183","",3,"bike-storage","Beverly","Pedal and Park","Beverly Pedal and Park","","42.54563","-70.885128",0
+"bike-brntn","",3,"bike-storage","place-brntn","Pedal and Park","Braintree Pedal and Park","","42.206866","-71.000535",0
+"bike-davis","",3,"bike-storage","place-davis","Pedal and Park","Davis Pedal and Park","","42.396664","-71.121646",0
+"bike-64","",3,"bike-storage","64","Pedal and Park","Dudley Station Pedal and Park","","42.329224","-71.084134",0
+"bike-64000","",3,"bike-storage","64000","Pedal and Park","Dudley Station Pedal and Park","","42.329224","-71.084134",0
+"bike-forhl","",3,"bike-storage","place-forhl","Pedal and Park","Forest Hills Pedal and Park","","42.301006","-71.114131",0
+"bike-mlmnl","",3,"bike-storage","place-mlmnl","Pedal and Park","Malden Center Pedal and Park","","42.426871","-71.07445",0
+"bike-ogmnl","",3,"bike-storage","place-ogmnl","Pedal and Park","Oak Grove Pedal and Park","","42.437026","-71.070447",0
+"bike-ER-0168","",3,"bike-storage","Salem","Pedal and Park","Salem Pedal and Park","","42.524115","-70.89642",0
+"bike-sstat","",3,"bike-storage","place-sstat","Pedal and Park","South Station Pedal and Park","","42.351511","-71.055705",0
+"bike-wlsta","",3,"bike-storage","place-wlsta","Pedal and Park","Wollaston Pedal and Park","","42.266812","-71.020273",0
+"bike-wondl","",3,"bike-storage","place-wondl","Pedal and Park","Wonderland Pedal and Park","","42.413587","-70.992379",0
