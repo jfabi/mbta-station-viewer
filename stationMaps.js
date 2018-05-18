@@ -17,6 +17,15 @@ for (var i = 0; i < time.length; i++) { //Loop trough elements
     });
 };
 
+// var greenIcon = L.icon({
+//     iconUrl: 'leaf-green.png',
+
+//     iconSize:     [38, 95], // size of the icon
+//     shadowSize:   [50, 64], // size of the shadow
+//     iconAnchor:   [22, 94], // point of the icon which will correspond to marker's location
+//     shadowAnchor: [4, 62],  // the same for the shadow
+//     popupAnchor:  [-3, -76] // point from which the popup should open relative to the iconAnchor
+// });
 
 
 
@@ -277,6 +286,26 @@ function nextStationUpdate() {
 
             var popupText = stopName + accessibility + routeText;
             marker.bindPopup(popupText).openPopup();
+        }
+
+        for (l = 0; l < stationFacilities.length; l++) {
+            if (stationFacilities[l]['lat'] != null) {
+                var marker = L.marker([stationFacilities[l]['lat'], stationFacilities[l]['lon']]).addTo(map);
+                
+                var stopName = '<b>' + stationFacilities[l]['name'] + '</b>';
+                var type = stationFacilities[l]['type'];
+                if (type == 'parking-area') {
+                    type = 'Parking area';
+                } else if (type == 'pick-drop') {
+                    type = 'Pick-up/drop-off area';
+                } else if (type == 'bike-storage') {
+                    type = 'Pedal and Park storage';
+                }
+                var typeText = '<br>' + type;
+
+                var popupText = stopName + typeText;
+                marker.bindPopup(popupText).openPopup();
+            }
         }
 
         setTimeout(function(){
