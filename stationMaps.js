@@ -250,6 +250,35 @@ function nextStationUpdate() {
             nearbyText = nearbyText + '<span style="color: #' + nearbyRoutes[l]['colorText'] + '; background-color: #' + nearbyRoutes[l]['colorBg'] + ';"><b>&nbsp;' + nearbyRoutes[l]['name'] + '&nbsp;</b></span>&nbsp;&nbsp;'
         }
 
+        for (l = 0; l < nearbyStops.length; l++) {
+            var marker = L.marker([nearbyStops[l]['lat'], nearbyStops[l]['lon']]).addTo(map);
+            
+            var stopName = ''
+            var accessibility = ''
+            var routeText = ''
+            if (nearbyStops[l]['platformCode'] != null || nearbyStops[l]['platformName'] != null) {
+                var platformCode = '';
+                var platformName = '';
+                if (nearbyStops[l]['platformCode'] != null) {
+                    platformCode = 'Platform ' + nearbyStops[l]['platformCode'] + ' - ';
+                }
+                platformName = nearbyStops[l]['platformName'];
+                stopName = nearbyStops[l]['name'] + ': <b>' + platformCode + platformName + '</b>';
+            } else {
+                stopName = '<b>' + nearbyStops[l]['name'] + '</b>';
+            }
+            if (nearbyStops[l]['wheelchair'] == 1) {
+                accessibility = '&nbsp;<img src="icons/access.png" width="18px">'
+            }
+            for (m = 0; m < nearbyStops[l]['routes'].length; m++) {
+                route = nearbyStops[l]['routes'][m];
+                routeText = routeText + '<br><span style="color: #' + route['colorText'] + '; background-color: #' + route['colorBg'] + ';"><b>&nbsp;' + route['name'] + '&nbsp;</b></span>'
+            }
+
+            var popupText = stopName + accessibility + routeText;
+            marker.bindPopup(popupText).openPopup();
+        }
+
         setTimeout(function(){
             document.getElementById('stationHeader').innerHTML = stationName + '<br>&nbsp;';
             document.getElementById('directlyServing').innerHTML = 'Serving ' + servingText + '<br>&nbsp;';
