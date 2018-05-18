@@ -61,7 +61,7 @@ jQuery(document).ready(function($) {
 
 
 function nextStationUpdate() {
-    document.getElementById("dwellsT").innerHTML = 'Please wait. Your diagram is currently baking...<br>&nbsp;';
+    document.getElementById("stationHeader").innerHTML = 'Please wait. Your diagram is currently baking...<br>&nbsp;';
 
     setTimeout(function() {
         // parse input date into epoch time, set beginning and ending time to search
@@ -240,8 +240,24 @@ function nextStationUpdate() {
         //     L.geoJson(data).addTo(map);
         // });
 
+        var servingText = '';
+        var nearbyText = '';
+        for (l = 0; l < directRoutes.length; l++) {
+            servingText = servingText + '<span style="color: #' + directRoutes[l]['colorText'] + '; background-color: #' + directRoutes[l]['colorBg'] + ';"><b>&nbsp;' + directRoutes[l]['name'] + '&nbsp;</b></span>&nbsp;&nbsp;'
+        }
+
+        for (l = 0; l < nearbyRoutes.length; l++) {
+            nearbyText = nearbyText + '<span style="color: #' + nearbyRoutes[l]['colorText'] + '; background-color: #' + nearbyRoutes[l]['colorBg'] + ';"><b>&nbsp;' + nearbyRoutes[l]['name'] + '&nbsp;</b></span>&nbsp;&nbsp;'
+        }
+
         setTimeout(function(){
-            document.getElementById("dwellsT").innerHTML = stationName + '<br>&nbsp;';
+            document.getElementById('stationHeader').innerHTML = stationName + '<br>&nbsp;';
+            document.getElementById('directlyServing').innerHTML = 'Serving ' + servingText + '<br>&nbsp;';
+            if (nearbyText != '') {
+                document.getElementById('nearbyServing').innerHTML = 'Nearby connections to ' + nearbyText + '<br>&nbsp;';
+            } else {
+                document.getElementById('nearbyServing').innerHTML = '&nbsp;<br>&nbsp;';
+            }
         }, 1000);
     }, 100);
 };
