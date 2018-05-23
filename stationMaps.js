@@ -17,16 +17,44 @@ for (var i = 0; i < time.length; i++) { //Loop trough elements
     });
 };
 
-// var greenIcon = L.icon({
-//     iconUrl: 'leaf-green.png',
+var iconStationMarker = L.icon({
+    iconUrl: '/icons/station-marker.png',
 
-//     iconSize:     [38, 95], // size of the icon
-//     shadowSize:   [50, 64], // size of the shadow
-//     iconAnchor:   [22, 94], // point of the icon which will correspond to marker's location
-//     shadowAnchor: [4, 62],  // the same for the shadow
-//     popupAnchor:  [-3, -76] // point from which the popup should open relative to the iconAnchor
-// });
+    iconSize:     [30, 30], // size of the icon
+    popupAnchor:  [-3, -6] // point from which the popup should open relative to the iconAnchor
+});
 
+var iconAutoParking = L.icon({
+    iconUrl: '/icons/parking.png',
+
+    iconSize:     [30, 30], // size of the icon
+    popupAnchor:  [-3, -6] // point from which the popup should open relative to the iconAnchor
+});
+
+var iconBikeParking = L.icon({
+    iconUrl: '/icons/bike-parking.png',
+
+    iconSize:     [30, 30], // size of the icon
+    popupAnchor:  [-3, -6] // point from which the popup should open relative to the iconAnchor
+});
+var iconPickup = L.icon({
+    iconUrl: '/icons/pick-up.png',
+
+    iconSize:     [30, 30], // size of the icon
+    popupAnchor:  [-3, -6] // point from which the popup should open relative to the iconAnchor
+});
+var iconEntrance = L.icon({
+    iconUrl: '/icons/entrance-exit.png',
+
+    iconSize:     [30, 30], // size of the icon
+    popupAnchor:  [-3, -6] // point from which the popup should open relative to the iconAnchor
+});
+var iconNearby = L.icon({
+    iconUrl: '/icons/mbta-bus-logo.png',
+
+    iconSize:     [30, 30], // size of the icon
+    popupAnchor:  [-3, -6] // point from which the popup should open relative to the iconAnchor
+});
 
 
 var headwayURL = "https://api-v3.mbta.com/stops?filter[route]=Red%2CBlue%2COrange%2CMattapan%2CGreen-B%2CGreen-C%2CGreen-D%2CGreen-E";
@@ -260,7 +288,14 @@ function nextStationUpdate() {
         }
 
         for (l = 0; l < nearbyStops.length; l++) {
-            var marker = L.marker([nearbyStops[l]['lat'], nearbyStops[l]['lon']]).addTo(map);
+            var markerIcon = iconStationMarker;
+            if (nearbyStops[l]['parentStation'] == null && nearbyStops[l]['id'] != stationInput) {
+                markerIcon = iconNearby;
+            } else if (nearbyStops[l]['locationType'] == 2) {
+                markerIcon = iconEntrance;
+            }
+
+            var marker = L.marker([nearbyStops[l]['lat'], nearbyStops[l]['lon']], {icon: markerIcon}).addTo(map);
             
             var stopName = ''
             var accessibility = ''
@@ -290,17 +325,22 @@ function nextStationUpdate() {
 
         for (l = 0; l < stationFacilities.length; l++) {
             if (stationFacilities[l]['lat'] != null) {
-                var marker = L.marker([stationFacilities[l]['lat'], stationFacilities[l]['lon']]).addTo(map);
-                
-                var stopName = '<b>' + stationFacilities[l]['name'] + '</b>';
                 var type = stationFacilities[l]['type'];
+                var markerIcon = iconStationMarker;
                 if (type == 'parking-area') {
                     type = 'Parking area';
+                    markerIcon = iconAutoParking;
                 } else if (type == 'pick-drop') {
                     type = 'Pick-up/drop-off area';
+                    markerIcon = iconPickup;
                 } else if (type == 'bike-storage') {
                     type = 'Pedal and Park storage';
+                    markerIcon = iconBikeParking;
                 }
+
+                var marker = L.marker([stationFacilities[l]['lat'], stationFacilities[l]['lon']], {icon: markerIcon}).addTo(map);
+                
+                var stopName = '<b>' + stationFacilities[l]['name'] + '</b>';
                 var typeText = '<br>' + type;
 
                 var popupText = stopName + typeText;
@@ -309,7 +349,7 @@ function nextStationUpdate() {
         }
 
         setTimeout(function(){
-            document.getElementById('stationHeader').innerHTML = stationName + '<br>&nbsp;';
+            document.getElementById('stationHeader').innerHTML = '<br><b><span style="font-size: 28px;">' + stationName + '</span></b><br>&nbsp;';
             document.getElementById('directlyServing').innerHTML = 'Serving ' + servingText + '<br>&nbsp;';
             if (nearbyText != '') {
                 document.getElementById('nearbyServing').innerHTML = 'Nearby connections to ' + nearbyText + '<br>&nbsp;';
