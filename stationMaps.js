@@ -55,11 +55,24 @@ var iconNearby = L.icon({
     iconSize:     [30, 30], // size of the icon
     popupAnchor:  [-3, -6] // point from which the popup should open relative to the iconAnchor
 });
+var iconBusT = L.icon({
+    iconUrl: '/icons/mbta-bus-yellow.png',
+
+    iconSize:     [30, 30], // size of the icon
+    popupAnchor:  [-3, -6] // point from which the popup should open relative to the iconAnchor
+});
+var iconSubway = L.icon({
+    iconUrl: '/icons/subway.png',
+
+    iconSize:     [30, 30], // size of the icon
+    popupAnchor:  [-3, -6] // point from which the popup should open relative to the iconAnchor
+});
 
 
 var headwayURL = "https://api-v3.mbta.com/stops?filter[route]=Red%2CBlue%2COrange%2CMattapan%2CGreen-B%2CGreen-C%2CGreen-D%2CGreen-E";
 var stationArray = []
 var map = null
+var currentMarkers = []
 
 jQuery(document).ready(function($) {
     $.ajax({
@@ -269,13 +282,13 @@ function nextStationUpdate() {
         console.log('-- NEARBY ROUTES --')
         console.log(nearbyRoutes)
 
-        map.setView([stationLat, stationLon], 18);
+        // remove all markers from previous station
+        for (l = 0; l < currentMarkers.length; l++) {
+            map.removeLayer(currentMarkers[l]);
+        }
+        currentMarkers = [];
 
-        // load GeoJSON from an external file
-        // $.getJSON("rodents.geojson",function(data){
-        //     // add GeoJSON layer to the map once the file is loaded
-        //     L.geoJson(data).addTo(map);
-        // });
+        map.setView([stationLat, stationLon], 18);
 
         var servingText = '';
         var nearbyText = '';
@@ -293,10 +306,22 @@ function nextStationUpdate() {
                 markerIcon = iconNearby;
             } else if (nearbyStops[l]['locationType'] == 2) {
                 markerIcon = iconEntrance;
+            } else if (nearbyStops[l]['routes'].length > 0) {
+                if ('RedOrangeBlueMattapanGreen-BGreen-CGreen-DGreen-E'.indexOf(nearbyStops[l]['routes'][0]['id']) == -1) {
+                    console.log(nearbyStops[l]['routes'][0]['id']);
+                    markerIcon = iconBusT;
+                } else if (nearbyStops[l]['id'] != stationInput) {
+                    markerIcon = iconSubway;
+                }
+            } else if (nearbyStops[l]['parentStation'] =! null && nearbyStops[l]['routes'].length == 0 && nearbyStops[l]['id'] != stationInput) {
+                markerIcon = iconBusT;
+            } else if (nearbyStops[l]['id'] != stationInput) {
+                markerIcon = iconSubway;
             }
 
             var marker = L.marker([nearbyStops[l]['lat'], nearbyStops[l]['lon']], {icon: markerIcon}).addTo(map);
-            
+            currentMarkers.push(marker);
+
             var stopName = ''
             var accessibility = ''
             var routeText = ''
@@ -339,7 +364,8 @@ function nextStationUpdate() {
                 }
 
                 var marker = L.marker([stationFacilities[l]['lat'], stationFacilities[l]['lon']], {icon: markerIcon}).addTo(map);
-                
+                currentMarkers.push(marker);
+
                 var stopName = '<b>' + stationFacilities[l]['name'] + '</b>';
                 var typeText = '<br>' + type;
 
