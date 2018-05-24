@@ -18,51 +18,51 @@ for (var i = 0; i < time.length; i++) { //Loop trough elements
 };
 
 var iconStationMarker = L.icon({
-    iconUrl: '/icons/station-marker.png',
+    iconUrl: 'icons/station-marker.png',
 
     iconSize:     [30, 30], // size of the icon
     popupAnchor:  [-3, -6] // point from which the popup should open relative to the iconAnchor
 });
 
 var iconAutoParking = L.icon({
-    iconUrl: '/icons/parking.png',
+    iconUrl: 'icons/parking.png',
 
     iconSize:     [30, 30], // size of the icon
     popupAnchor:  [-3, -6] // point from which the popup should open relative to the iconAnchor
 });
 
 var iconBikeParking = L.icon({
-    iconUrl: '/icons/bike-parking.png',
+    iconUrl: 'icons/bike-parking.png',
 
     iconSize:     [30, 30], // size of the icon
     popupAnchor:  [-3, -6] // point from which the popup should open relative to the iconAnchor
 });
 var iconPickup = L.icon({
-    iconUrl: '/icons/pick-up.png',
+    iconUrl: 'icons/pick-up.png',
 
     iconSize:     [30, 30], // size of the icon
     popupAnchor:  [-3, -6] // point from which the popup should open relative to the iconAnchor
 });
 var iconEntrance = L.icon({
-    iconUrl: '/icons/entrance-exit.png',
+    iconUrl: 'icons/entrance-exit.png',
 
     iconSize:     [30, 30], // size of the icon
     popupAnchor:  [-3, -6] // point from which the popup should open relative to the iconAnchor
 });
 var iconNearby = L.icon({
-    iconUrl: '/icons/mbta-bus-logo.png',
+    iconUrl: 'icons/mbta-bus-logo.png',
 
     iconSize:     [30, 30], // size of the icon
     popupAnchor:  [-3, -6] // point from which the popup should open relative to the iconAnchor
 });
 var iconBusT = L.icon({
-    iconUrl: '/icons/mbta-bus-yellow.png',
+    iconUrl: 'icons/mbta-bus-yellow.png',
 
     iconSize:     [30, 30], // size of the icon
     popupAnchor:  [-3, -6] // point from which the popup should open relative to the iconAnchor
 });
 var iconSubway = L.icon({
-    iconUrl: '/icons/subway.png',
+    iconUrl: 'icons/subway.png',
 
     iconSize:     [30, 30], // size of the icon
     popupAnchor:  [-3, -6] // point from which the popup should open relative to the iconAnchor
