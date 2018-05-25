@@ -166,20 +166,22 @@ function nextStationUpdate() {
                         if (nearbyJson[j]['relationships']['parent_station']['data']) {
                             parentStation = nearbyJson[j]['relationships']['parent_station']['data']['id'];
                         }
-                        newStation = {
-                            id: stopId,
-                            name: stopName,
-                            description: nearbyJson[j]['attributes']['description'],
-                            lat: nearbyJson[j]['attributes']['latitude'],
-                            lon: nearbyJson[j]['attributes']['longitude'],
-                            platformName: nearbyJson[j]['attributes']['platform_name'],
-                            platformCode: nearbyJson[j]['attributes']['platform_code'],
-                            wheelchair: nearbyJson[j]['attributes']['wheelchair_boarding'],
-                            locationType: nearbyJson[j]['attributes']['location_type'],
-                            parentStation: parentStation,
-                            routes: []
-                        };
-                        nearbyStops.push(newStation)
+                        if (parentStation == stationInput || parentStation == null) {
+                            newStation = {
+                                id: stopId,
+                                name: stopName,
+                                description: nearbyJson[j]['attributes']['description'],
+                                lat: nearbyJson[j]['attributes']['latitude'],
+                                lon: nearbyJson[j]['attributes']['longitude'],
+                                platformName: nearbyJson[j]['attributes']['platform_name'],
+                                platformCode: nearbyJson[j]['attributes']['platform_code'],
+                                wheelchair: nearbyJson[j]['attributes']['wheelchair_boarding'],
+                                locationType: nearbyJson[j]['attributes']['location_type'],
+                                parentStation: parentStation,
+                                routes: []
+                            };
+                            nearbyStops.push(newStation)
+                        }
                     }
                 }
             });
